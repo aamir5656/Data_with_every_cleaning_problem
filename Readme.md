@@ -47,7 +47,7 @@ This project focuses on cleaning a dataset by addressing common data quality pro
 ## 📞 Contact
 
 **Developer:** Aamir Shahzad  
-**Kaggle:**https://www.kaggle.com/aamir5659
+**Kaggle:** https://www.kaggle.com/aamir5659
 
 ---
 
