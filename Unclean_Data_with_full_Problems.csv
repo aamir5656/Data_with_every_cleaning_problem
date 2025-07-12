@@ -1,0 +1,1001 @@
+Student_ID,Gender,Age,Nationality,Province,Program_Level,Department,Year_of_Study,GPA,Attendance_Rate,Mental_Health_Score,Stress_Level,Sleep_Hours,Study_Hours,Monthly_Expenses,Scholarship_Status,Part_Time_Job,Hostel_Resident,Commute_Time,Transport_Mode,Internet_Access,Library_Usage,Canteen_Quality_Rating,Lab_Equipment_Access,Faculty_Satisfaction
+PSY0001,Female,23,Afghan,Kabul,Masters,Psychology,1,3.18,92.5,5,6,8,2,47523,Yes,Yes,No,45,Bus,No,3,3,Good,5.0
+ELE0002,Female,20,Indian,Kerala,Undergraduate,Electrical Engineering,4,2.78,68.1,9,5,4,1,40226,Yes,,No,13,Bike,No,4,3,Good,4.0
+ELE0003,Female,24,Bangladeshi,Dhaka,Undergraduate,Electrical Engineering,3,3.79,73.4,7,4,4,2,37166,Yes,No,No,15,Walk,Yes,5,2,Average,5.0
+MAT0004,Female,19,Afghan,Kabul,PhD,Mathematics,4,3.08,83.1,6,10,8,2,53676,Yes,Yes,Yes,58,Car,No,3,3,Poor,3.0
+BIO0005,Male,22,Indian,Kerala,Masters,Biology,2,3.27,94.6,6,10,4,2,58479,No,No,No,17,Car,Yes,1,4,Good,2.0
+COM0006,Female,22,Pakistani,Sindh,Masters,Computer Science,2,3.29,82.8,1,9,7,1,34151,Yes,Yes,No,32,Bike,Yes,6,1,Average,5.0
+COM0007,Male,22,Pakistani,Balochistan,PhD,Computer Science,4,2.67,93.3,8,4,8,5,36593,Yes,Yes,Yes,48,Bus,Yes,6,3,Average,5.0
+MAT0008,Male,28,Indian,Kerala,Masters,Mathematics,3,3.07,92.0,8,10,4,5,20565,Yes,Yes,No,54,Bus,No,4,2,Good,4.0
+COM0009,Female,27,Indian,Delhi,Masters,Computer Science,2,3.1,94.6,9,7,6,2,23742,No,Yes,No,27,Car,Yes,6,4,Average,4.0
+BUS0010,Male,26,Afghan,Herat,PhD,Business,3,3.55,94.8,9,1,7,3,21210,Yes,Yes,No,38,Walk,No,2,2,Average,3.0
+COM0011,Male,22,Indian,Kerala,Masters,Computer Science,1,2.87,97.3,8,1,5,5,53798,Yes,No,Yes,14,Bus,Yes,7,4,Poor,2.0
+PSY0012,Male,20,Pakistani,Balochistan,Undergraduate,Psychology,1,2.72,79.6,5,5,4,2,15983,Yes,No,Yes,37,Walk,Yes,6,4,Average,2.0
+PSY0013,Female,23,Indian,Punjab,PhD,Compuer Science,1,2.55,80.6,7,10,8,2,40164,No,No,Yes,34,Car,Yes,3,5,Good,3.0
+BIO0014,Female,26,Afghan,Herat,PhD,Biology,4,2.73,67.5,6,5,7,1,49974,Yes,No,No,29,Bike,No,0,5,Average,2.0
+COM0015,Male,18,Afghan,Herat,Masters,Computer Science,2,3.19,82.9,3,4,8,4,43077,Yes,Yes,Yes,11,Walk,No,7,5,Average,4.0
+MAT0016,Female,19,Pakistani,KPK,Masters,Mathematics,2,3.77,73.4,2,9,6,1,58717,No,Yes,No,45,Walk,No,6,5,Average,2.0
+BUS0017,Female,28,Bangladeshi,Dhaka,PhD,Business,3,3.55,90.1,2,5,6,3,31070,Yes,No,No,7,Walk,Yes,4,2,Average,1.0
+PSY0018,Female,28,Pakistani,KPK,PhD,Psychology,1,3.96,97.4,8,6,6,3,26634,No,Yes,Yes,34,Walk,No,7,5,Good,1.0
+BUS0019,Female,23,Bangladeshi,Chittagong,PhD,,1,3.58,96.1,4,2,7,3,30117,Yes,No,Yes,15,Walk,No,5,5,Poor,4.0
+COM0020,Male,27,Bangladeshi,Dhaka,PhD,Computer Science,1,2.62,74.5,3,2,8,2,41495,Yes,Yes,No,28,Bike,Yes,7,2,Poor,4.0
+PSY0021,Female,25,Afghan,Herat,PhD,Psychology,4,3.88,70.9,3,2,7,2,44103,Yes,No,No,53,Car,Yes,4,1,Average,1.0
+MAT0022,Male,26,Pakistani,Balochistan,PhD,Mathematics,3,2.66,92.2,2,7,8,3,44548,Yes,,No,34,Bike,Yes,2,3,Poor,1.0
+COM0023,Female,21,Bangladeshi,Dhaka,Undergraduate,Computer Science,1,3.69,98.4,2,10,4,4,52558,Yes,Yes,Yes,33,Car,No,6,3,Poor,3.0
+ELE0024,Female,18,Indian,Punjab,Masters,Electrical Engineering,2,2.15,90.0,6,7,5,2,30300,No,No,Yes,53,Car,Yes,7,3,Good,1.0
+ELE0025,Male,25,Pakistani,Sindh,Masters,Electrical Engineering,4,3.22,80.1,3,6,8,1,17484,No,No,Yes,19,Bus,Yes,2,3,Good,4.0
+PSY0026,Male,21,Indian,Punjab,Undergraduate,Psychology,2,2.81,96.4,8,3,5,1,47345,Yes,No,Yes,38,Walk,Yes,2,2,Good,2.0
+MAT0027,Male,27,Afghan,Herat,PhD,Mathematics,1,3.36,86.0,6,9,5,2,23117,No,Yes,No,10,Car,No,4,4,Good,4.0
+BIO0028,Female,23,Bangladeshi,Dhaka,Masters,Biology,2,3.14,86.3,6,1,6,3,33440,Yes,No,No,44,Car,Yes,3,3,Average,4.0
+BIO0029,Male,21,Afghan,Herat,PhD,Biology,4,3.78,91.6,3,1,7,3,57497,No,No,No,28,Bike,Yes,5,2,Poor,3.0
+MAT0030,Male,18,Bangladeshi,Dhaka,Masters,Mathematics,3,3.23,77.8,10,2,4,4,18785,No,Yes,No,40,Bus,Yes,6,2,Average,4.0
+ELE0031,Female,25,Indian,Delhi,PhD,Electrical Engineering,1,3.0,65.1,4,6,8,4,33328,Yes,Yes,Yes,15,Walk,No,4,5,Good,3.0
+BIO0032,Male,27,Bangladeshi,Dhaka,Masters,Biology,1,3.39,93.8,4,6,8,5,32287,No,Yes,Yes,29,Bus,No,7,1,Poor,2.0
+BIO0033,Female,18,Bangladeshi,,Masters,Biology,3,2.7,68.5,6,3,4,4,17070,Yes,No,No,42,Car,No,4,4,Good,5.0
+PSY0034,Female,21,Pakistani,KPK,Masters,Psychology,3,2.87,75.8,3,6,8,1,56747,No,Yes,No,45,Walk,No,7,3,Average,3.0
+BIO0035,Male,22,Afghan,Kabul,Masters,Biology,4,3.04,98.8,10,1,5,4,27003,Yes,Yes,No,12,Bike,No,0,5,Average,2.0
+ELE0036,Female,26,Bangladeshi,Chittagong,PhD,Electrical Engineering,2,2.96,69.2,9,6,7,1,55581,Yes,Yes,No,45,Bike,No,7,2,Poor,5.0
+ELE0037,Female,20,Bangladeshi,Dhaka,Undergraduate,Electrical Engineering,4,3.15,66.7,2,4,8,2,55776,Yes,Yes,No,59,Walk,Yes,3,4,Average,5.0
+BUS0038,Male,23,Pakistani,Balochistan,Undergraduate,Business,3,2.63,79.4,9,9,8,4,21374,Yes,No,No,8,Bike,Yes,7,3,Poor,5.0
+PSY0039,Female,22,Indian,Kerala,Undergraduate,Psychology,2,3.37,69.5,1,1,8,2,38814,Yes,Yes,No,27,Walk,Yes,7,5,Poor,1.0
+ELE0040,Female,27,Indian,Punjab,Masters,Electrical Engineering,2,2.15,79.8,3,7,5,2,26704,Yes,No,Yes,46,Bus,Yes,3,2,Average,1.0
+MAT0041,Female,27,Afghan,Herat,Undergraduate,Mathematics,1,2.43,91.4,9,6,6,1,41424,Yes,Yes,Yes,58,Car,No,3,2,Average,2.0
+ELE0042,Female,18,Bangladeshi,Chittagong,PhD,Electrical Engineering,1,3.17,82.4,3,8,7,4,55137,No,No,Yes,13,Walk,No,5,5,Poor,2.0
+PSY0043,Female,25,Bangladeshi,Dhaka,Undergraduate,Psychology,2,3.64,81.7,4,7,6,3,25878,Yes,Yes,No,39,Walk,No,2,5,Poor,1.0
+,Female,19,Pakistani,Sindh,Undergraduate,Computer Science,3,3.09,65.4,10,5,8,2,43831,No,No,No,35,Car,Yes,6,3,Average,1.0
+BIO0045,Male,21,Bangladeshi,Chittagong,Masters,Biology,1,3.06,69.1,1,10,5,4,23318,Yes,No,No,19,Walk,Yes,2,2,Poor,1.0
+COM0046,Male,24,Indian,Punjab,Undergraduate,Computer Science,3,3.04,68.4,7,1,7,3,22334,No,Yes,Yes,42,Bike,No,5,3,Good,3.0
+PSY0047,Female,28,Afghan,Herat,PhD,Psychology,3,2.77,67.7,9,10,4,5,35358,Yes,No,No,13,Bike,No,2,2,Good,1.0
+BIO0048,Female,22,Afghan,Herat,PhD,Biology,3,3.11,87.3,4,8,6,4,23990,Yes,Yes,Yes,44,Bus,Yes,2,1,Poor,3.0
+COM0049,Female,28,Afghan,Kabul,Undergraduate,,1,2.8,67.9,10,2,5,2,47241,No,Yes,No,26,Bike,No,7,3,Poor,1.0
+PSY0050,Female,18,Afghan,Herat,PhD,Psychology,4,3.45,86.4,4,6,6,1,40435,Yes,No,Yes,,Bus,Yes,7,2,Average,4.0
+ELE0051,Female,19,Pakistani,KPK,PhD,Electrical Engineering,1,3.02,97.3,8,5,5,3,17227,No,Yes,Yes,6,Bus,No,6,1,Good,4.0
+PSY0052,Male,21,Afghan,Herat,Undergraduate,Psychology,1,3.53,74.5,4,10,5,1,53533,Yes,No,Yes,43,Bike,No,5,1,Average,4.0
+BIO0053,Female,19,Afghan,Kabul,Undergraduate,Biology,4,2.64,66.8,5,9,5,1,24847,Yes,No,Yes,46,Bus,No,4,4,,3.0
+BIO0054,Female,20,Indian,Delhi,PhD,Biology,2,3.57,80.8,10,4,5,4,19641,No,No,Yes,18,Walk,No,1,2,Average,4.0
+BUS0055,Male,22,Bangladeshi,Dhaka,Masters,Business,2,2.15,95.0,10,8,4,2,15187,Yes,Yes,No,57,Walk,No,2,3,Average,5.0
+COM0056,Female,24,Pakistani,Balochistan,Undergraduate,Computer Science,1,2.98,88.7,9,7,8,2,46622,Yes,Yes,Yes,33,Walk,No,2,1,Poor,2.0
+BIO0057,Female,25,Afghan,Herat,PhD,Biology,3,3.25,84.7,4,4,7,5,49253,No,No,No,18,Car,No,2,1,Poor,3.0
+PSY0058,Male,21,Pakistani,KPK,Masters,Psychology,2,2.81,66.0,4,7,5,1,50314,No,No,No,18,Walk,No,0,2,Good,1.0
+MAT0059,Male,20,Indian,Kerala,PhD,Mathematics,2,3.16,81.2,3,6,5,1,33933,Yes,Yes,No,42,Bike,No,7,1,Good,2.0
+BUS0060,Male,22,Bangladeshi,Chittagong,Undergraduate,Business,4,2.9,70.0,9,3,4,3,18487,Yes,Yes,No,33,Walk,No,0,1,Good,3.0
+BUS0061,Female,25,Bangladeshi,Dhaka,PhD,Business,4,2.55,73.2,2,5,6,2,36124,No,Yes,No,34,Bus,Yes,4,5,Good,5.0
+PSY0062,Male,24,Pakistani,Balochistan,PhD,Psychology,1,2.95,85.6,10,3,8,5,33779,No,No,No,9,Bike,Yes,3,4,Poor,2.0
+BIO0063,Male,21,Bangladeshi,Dhaka,Masters,Biology,2,3.46,72.1,9,10,5,2,36175,No,No,Yes,37,Walk,No,2,4,Good,2.0
+PSY0064,Male,28,Pakistani,KPK,Masters,Psychology,2,2.95,97.0,7,4,7,3,32846,Yes,No,No,34,Bike,No,1,2,Average,2.0
+MAT0065,Female,27,Indian,Punjab,Undergraduate,Mathematics,4,2.7,75.8,3,5,8,2,24726,No,No,Yes,36,Bike,No,6,2,Poor,2.0
+BUS0066,Female,21,Bangladeshi,Chittagong,Masters,Business,4,3.09,85.0,4,6,8,2,53885,Yes,Yes,Yes,11,Bike,No,7,4,Average,2.0
+PSY0067,Male,18,Pakistani,Sindh,Undergraduate,Psychology,4,3.5,83.3,3,6,8,2,35392,Yes,Yes,Yes,26,Bike,Yes,0,1,Poor,1.0
+PSY0068,Female,23,Indian,Punjab,PhD,Psychology,3,2.73,89.9,5,2,6,2,25414,Yes,Yes,No,37,Walk,Yes,2,5,Good,1.0
+COM0069,Male,23,Pakistani,Balochistan,Masters,Computer Science,1,2.97,89.3,6,10,5,3,17624,Yes,No,No,22,Walk,Yes,7,3,Poor,2.0
+COM0070,Female,22,Indian,Kerala,Masters,Computer Science,3,3.1,98.5,3,7,8,2,53770,No,No,No,57,Bike,No,0,3,Good,5.0
+BIO0071,Male,19,Pakistani,Balochistan,Masters,Biology,4,3.32,87.1,7,8,4,3,52714,No,No,Yes,40,Walk,No,3,2,Poor,3.0
+ELE0072,Female,22,Pakistani,Sindh,Masters,Electrical Engineering,4,2.68,78.6,8,3,4,1,25335,No,No,Yes,28,Bike,No,5,2,Poor,4.0
+PSY0073,Female,28,Afghan,Kabul,PhD,Psychology,3,2.9,73.8,5,9,6,2,57393,No,No,Yes,,Walk,No,3,2,Good,3.0
+PSY0074,Male,27,Indian,Kerala,Masters,Psychology,4,3.31,91.8,3,1,4,5,45361,Yes,Yes,Yes,31,Walk,No,1,2,Good,5.0
+PSY0075,Female,19,Pakistani,Sindh,PhD,Psychology,1,3.12,74.3,1,2,7,3,47912,Yes,No,Yes,12,Bus,No,2,2,Average,2.0
+COM0076,Female,19,Bangladeshi,Chittagong,PhD,Computer Science,2,4.02,67.5,10,10,6,1,50817,No,Yes,Yes,5,Bike,Yes,7,4,Poor,1.0
+PSY0077,Female,19,Afghan,Kabul,PhD,Psychology,1,2.56,77.5,5,6,8,4,33444,Yes,Yes,Yes,35,Bike,Yes,1,4,Good,5.0
+COM0078,Male,21,Afghan,Kabul,Masters,,4,2.61,78.4,10,8,5,4,44487,Yes,Yes,Yes,9,Car,No,6,5,Good,5.0
+ELE0079,Male,21,Pakistani,Sindh,Masters,Electrical Engineering,1,2.94,81.8,1,8,7,1,51986,No,Yes,No,54,Car,Yes,0,2,Good,1.0
+MAT0080,Female,24,Afghan,Herat,PhD,Mathematics,4,3.15,81.2,7,7,8,3,52207,Yes,Yes,Yes,37,Car,No,6,4,Poor,1.0
+COM0081,Male,22,Indian,Kerala,PhD,Computer Science,3,3.03,95.1,9,1,8,3,28498,Yes,Yes,Yes,48,Walk,No,0,3,Good,5.0
+BIO0082,Female,24,Pakistani,Punjab,Masters,Biology,3,3.78,83.2,1,10,7,4,24995,No,Yes,Yes,49,Car,No,1,2,Good,1.0
+,Male,24,Bangladeshi,Dhaka,Undergraduate,,2,2.52,82.4,5,10,5,3,51585,No,No,No,14,Bike,No,5,1,Average,3.0
+ELE0084,Male,22,Afghan,Kabul,Undergraduate,Electrical Engineering,2,2.86,68.6,4,9,5,3,52962,Yes,No,Yes,16,Car,No,2,1,,3.0
+ELE0085,Male,25,Indian,Punjab,PhD,,4,2.76,70.8,4,10,5,3,16632,No,Yes,Yes,44,Walk,No,6,4,,3.0
+BIO0086,Female,27,Bangladeshi,Chittagong,PhD,Biology,2,2.81,68.1,9,10,5,5,17196,No,Yes,Yes,16,Bike,No,3,4,Poor,2.0
+COM0087,Female,22,Pakistani,Punjab,Masters,Computer Science,3,3.13,77.0,1,2,7,3,47206,No,No,Yes,28,Bike,No,2,5,Good,5.0
+PSY0088,Male,19,Afghan,Herat,Undergraduate,Psychology,2,2.49,71.7,5,9,8,2,54989,Yes,Yes,No,44,Bus,No,1,5,Average,4.0
+COM0089,Male,24,Afghan,Herat,Undergraduate,Computer Science,1,2.88,73.8,1,3,4,5,34977,Yes,No,No,21,Car,No,4,1,Average,
+MAT0090,Male,23,Bangladeshi,Dhaka,PhD,Mathematics,2,2.89,65.2,9,2,6,5,26329,No,No,Yes,36,Car,No,4,5,Average,2.0
+COM0091,Female,27,Afghan,Kabul,Undergraduate,Computer Science,4,3.42,85.7,10,3,8,4,50246,Yes,Yes,No,18,Bike,No,4,3,Good,3.0
+BIO0092,Female,18,Indian,Kerala,Masters,Biology,1,3.09,86.0,2,4,4,2,27330,Yes,Yes,No,15,Bus,Yes,0,5,Average,2.0
+BIO0093,Female,18,Bangladeshi,Dhaka,PhD,Biology,1,2.98,96.6,6,10,7,5,56078,No,Yes,Yes,35,Walk,Yes,6,5,Average,5.0
+COM0094,Female,23,Bangladeshi,Dhaka,Masters,Computer Science,1,3.29,71.2,4,9,5,5,33498,No,Yes,Yes,32,Bike,Yes,1,4,Poor,1.0
+ELE0095,Female,28,Bangladeshi,Chittagong,Masters,Electrical Engineering,4,2.75,86.2,3,9,4,3,34540,No,No,Yes,51,Bus,Yes,5,1,Good,3.0
+BUS0096,Female,18,Indian,Delhi,PhD,Business,3,3.2,75.5,1,9,7,2,26529,Yes,Yes,No,56,Bus,Yes,2,4,Average,1.0
+BUS0097,Male,26,Afghan,Kabul,Masters,,3,3.1,91.6,10,3,6,1,19739,No,Yes,Yes,6,Bus,Yes,2,4,Average,1.0
+PSY0098,Male,26,Bangladeshi,Chittagong,PhD,Psychology,1,2.93,77.3,7,9,5,1,20340,No,Yes,Yes,52,Bike,Yes,7,2,Good,3.0
+ELE0099,Female,19,Pakistani,KPK,Masters,Electrical Engineering,3,3.28,71.1,9,2,5,5,31382,No,Yes,Yes,42,Car,Yes,3,2,Poor,1.0
+PSY0100,Female,27,Afghan,Kabul,Masters,Psychology,1,2.55,79.3,9,1,7,4,48650,No,Yes,No,20,Walk,Yes,3,1,Good,5.0
+COM0101,Female,24,Indian,Delhi,Masters,Computer Science,1,3.33,96.6,10,2,5,3,18743,No,No,No,39,Walk,No,4,3,Good,3.0
+ELE0102,Female,22,Pakistani,Punjab,PhD,Electrical Engineering,1,4.7,94.1,8,8,7,1,35508,No,No,Yes,34,Walk,No,0,5,Poor,1.0
+BUS0103,Male,21,Afghan,Herat,PhD,Business,4,2.83,78.3,5,8,7,4,48276,No,Yes,Yes,22,Bus,No,3,4,Poor,2.0
+BIO0104,Male,19,Afghan,,PhD,Biology,1,2.3,88.3,9,7,6,3,26463,Yes,Yes,Yes,32,Bike,No,4,2,Poor,5.0
+BIO0105,Female,22,Indian,Kerala,PhD,Biology,2,3.1,90.1,9,9,8,5,38896,Yes,Yes,No,30,Bike,Yes,6,4,Average,5.0
+ELE0106,Female,25,Afghan,Herat,Masters,Electrical Engineering,2,3.18,75.1,5,2,7,5,31250,No,No,No,43,Bike,No,4,4,Poor,5.0
+BUS0107,Female,26,Pakistani,KPK,Undergraduate,Business,4,3.66,90.0,1,7,8,5,55003,No,Yes,No,35,Bike,Yes,7,5,Poor,1.0
+COM0108,Male,22,Pakistani,Punjab,PhD,Computer Science,4,3.17,84.8,6,2,8,1,24847,No,No,Yes,17,Bus,Yes,6,2,Good,2.0
+COM0109,Male,28,Indian,Delhi,Undergraduate,Computer Science,2,3.27,66.0,8,3,8,2,27765,Yes,No,No,24,Bike,No,7,1,Average,1.0
+PSY0110,Male,27,Afghan,Kabul,Masters,Psychology,2,2.96,83.0,1,5,6,2,36956,Yes,Yes,No,24,Walk,No,7,1,Good,3.0
+ELE0111,Male,21,Pakistani,KPK,PhD,Electrical Engineering,1,3.48,80.5,4,2,5,5,47154,Yes,Yes,Yes,12,Bus,Yes,6,4,Average,1.0
+BIO0112,Female,27,Bangladeshi,Dhaka,Masters,Biology,2,2.67,86.8,8,7,4,1,45940,No,Yes,No,56,Bus,No,5,3,Average,3.0
+PSY0113,Male,24,Afghan,Herat,PhD,Psychology,2,2.89,93.6,7,10,6,4,28502,Yes,No,No,44,Car,No,1,1,Good,4.0
+MAT0114,Male,22,Indian,Punjab,PhD,Mathematics,4,2.75,68.5,8,6,8,2,20196,Yes,No,No,34,Bike,No,5,1,Average,4.0
+BUS0115,Male,24,Bangladeshi,Chittagong,PhD,Business,4,2.78,93.6,7,4,8,4,24962,No,Yes,Yes,20,Bike,No,0,2,Poor,5.0
+,Female,24,Indian,Punjab,Undergraduate,Mathematics,1,2.74,77.5,8,1,5,1,50891,No,Yes,Yes,35,Car,No,0,1,Average,3.0
+ELE0117,Male,19,Pakistani,Balochistan,Masters,Electrical Engineering,4,2.58,78.4,10,4,5,3,26046,Yes,No,Yes,58,Bus,Yes,1,3,Good,1.0
+ELE0118,Male,21,Bangladeshi,Dhaka,PhD,Electrical Engineering,2,3.25,68.9,1,8,4,1,30671,Yes,No,No,42,Bike,No,0,2,Average,1.0
+ELE0119,Female,18,Pakistani,KPK,PhD,Electrical Engineering,2,3.0,87.2,3,9,6,5,35478,No,Yes,No,22,Bus,Yes,4,4,Average,1.0
+PSY0120,Female,26,Afghan,Herat,Masters,Psychology,1,2.65,95.7,7,3,8,4,51529,Yes,No,No,11,Bus,No,2,2,Good,3.0
+ELE0121,Female,25,Indian,Punjab,PhD,Electrical Engineering,4,3.27,88.5,1,10,6,5,53238,Yes,No,No,19,Bus,Yes,5,4,Poor,1.0
+PSY0122,Female,27,Indian,Kerala,PhD,Psychology,2,3.01,94.9,4,10,6,3,18912,No,No,Yes,54,Bus,No,6,5,Good,3.0
+MAT0123,Female,19,Bangladeshi,Dhaka,Undergraduate,Mathematics,3,2.37,76.0,7,2,4,5,50709,No,Yes,Yes,59,Car,Yes,0,5,Average,3.0
+COM0124,Male,23,Indian,Delhi,Undergraduate,Computer Science,3,3.03,78.0,1,9,7,4,20043,Yes,Yes,No,7,Car,Yes,6,3,Poor,2.0
+BIO0125,Female,24,Afghan,Kabul,PhD,Biology,1,3.46,78.1,5,9,7,2,21925,No,No,No,34,Car,Yes,7,2,Good,3.0
+COM0126,Female,26,Indian,Kerala,Masters,Computer Science,4,2.72,71.2,7,4,7,4,32935,No,No,No,45,Walk,Yes,0,3,Poor,1.0
+BIO0127,Male,24,Indian,Delhi,Masters,Biology,1,3.03,72.0,9,2,4,2,46602,No,Yes,Yes,39,Walk,Yes,2,5,Poor,2.0
+COM0128,Female,19,Indian,Kerala,Masters,Computer Science,3,3.42,97.7,10,1,6,1,49883,Yes,No,No,,Bus,No,1,4,Poor,1.0
+MAT0129,Female,22,Afghan,Herat,Undergraduate,Mathematics,2,3.95,90.1,5,7,5,1,52221,Yes,Yes,Yes,18,Bus,No,5,4,Poor,1.0
+BIO0130,Male,18,Afghan,Kabul,Undergraduate,Biology,4,3.03,71.8,10,10,5,5,25495,No,No,Yes,14,Bike,No,7,2,Poor,4.0
+COM0131,Male,27,Afghan,Herat,PhD,Computer Science,2,2.95,93.3,3,1,4,1,28023,Yes,Yes,Yes,15,Car,No,5,3,Good,5.0
+MAT0132,Male,25,Pakistani,Punjab,PhD,Mathematics,1,2.93,86.9,2,7,4,5,22048,Yes,No,Yes,51,Walk,No,4,3,Average,1.0
+BUS0133,Male,27,Bangladeshi,Dhaka,Undergraduate,Business,2,2.38,75.0,3,2,6,3,21021,Yes,No,Yes,19,Car,Yes,1,1,Average,1.0
+BUS0134,Female,26,Indian,Delhi,Undergraduate,Business,4,3.38,94.8,10,3,6,2,48037,No,No,No,42,Bike,Yes,2,2,Good,1.0
+COM0135,Male,22,Afghan,Herat,Undergraduate,Computer Science,4,3.73,74.6,6,8,6,2,41276,Yes,Yes,No,30,Bus,Yes,3,5,Poor,5.0
+PSY0136,Female,25,Bangladeshi,Dhaka,PhD,Psychology,4,2.77,95.7,10,4,8,2,35538,Yes,Yes,Yes,22,Bus,No,2,2,Good,2.0
+ELE0137,Female,23,Pakistani,Punjab,Masters,Electrical Engineering,3,3.18,90.9,9,7,7,4,58155,No,Yes,Yes,11,Bus,Yes,3,4,Good,2.0
+,Male,24,Bangladeshi,Chittagong,Undergraduate,Business,1,2.55,79.9,7,1,8,3,22937,No,No,Yes,45,Walk,Yes,1,1,Good,3.0
+COM0139,Female,24,Afghan,Kabul,PhD,Computer Science,4,3.54,98.1,2,10,5,3,23140,No,No,No,43,Car,No,3,2,Poor,2.0
+PSY0140,Male,26,Afghan,Herat,PhD,Psychology,2,3.13,68.2,2,10,7,5,26627,No,No,Yes,13,Walk,No,2,4,Poor,2.0
+PSY0141,Female,20,Pakistani,Sindh,Masters,Psychology,1,2.96,95.7,9,7,5,3,46902,No,No,Yes,38,Car,No,5,5,Poor,1.0
+COM0142,Female,26,Bangladeshi,Dhaka,PhD,Computer Science,3,2.85,66.2,2,3,7,2,33664,No,No,Yes,24,Walk,No,7,5,Good,5.0
+PSY0143,Male,23,Indian,Punjab,Undergraduate,Psychology,2,2.46,91.4,4,7,8,5,31003,No,No,Yes,46,Bike,No,5,5,Poor,4.0
+ELE0144,Female,21,Indian,Punjab,Undergraduate,Electrical Engineering,4,3.35,91.9,5,7,6,1,51706,No,No,No,56,Bike,Yes,5,3,Poor,1.0
+,Female,23,Pakistani,Sindh,Undergraduate,Business,4,3.48,93.0,1,10,8,5,18111,Yes,No,Yes,10,Bus,No,0,2,Average,4.0
+MAT0146,Male,22,Pakistani,,Masters,Mathematics,4,3.25,89.7,9,1,4,4,33695,No,No,Yes,42,Bike,No,3,5,Poor,5.0
+COM0147,Female,22,Afghan,Kabul,Undergraduate,Computer Science,1,3.19,72.3,10,7,5,4,21487,No,No,Yes,40,Walk,No,7,4,Poor,5.0
+BUS0148,Female,22,Afghan,Herat,Masters,Business,4,2.56,68.7,5,6,5,2,43000,No,Yes,Yes,48,Walk,No,3,2,Poor,5.0
+MAT0149,Female,18,Pakistani,Punjab,Masters,Mathematics,4,2.88,65.6,7,9,6,4,37945,Yes,Yes,No,54,Bus,Yes,7,1,Good,5.0
+,Female,20,Afghan,Herat,PhD,Biology,2,2.54,69.3,1,8,8,4,51671,No,No,Yes,57,Car,No,1,3,Average,3.0
+COM0151,Female,19,Pakistani,Punjab,Undergraduate,Computer Science,3,2.81,80.2,8,2,7,4,30661,Yes,No,No,43,Walk,No,7,2,Good,4.0
+ELE0152,Male,25,Bangladeshi,Chittagong,PhD,,2,3.36,65.6,3,9,5,2,47937,Yes,No,Yes,41,Bike,No,6,3,Good,2.0
+MAT0153,Female,28,Pakistani,Punjab,PhD,Mathematics,1,2.99,74.7,9,3,5,3,37177,No,No,Yes,,Bike,Yes,3,4,Good,4.0
+COM0154,Female,27,Indian,Punjab,Masters,Computer Science,3,3.07,87.0,7,1,8,1,38854,No,No,Yes,59,Bike,No,5,1,Average,4.0
+BUS0155,Male,27,Pakistani,KPK,Masters,Business,4,2.31,87.4,10,1,7,5,54767,No,No,No,16,Bus,No,0,4,Good,2.0
+BUS0156,Male,19,Pakistani,Punjab,Undergraduate,Business,1,2.82,76.2,5,8,7,2,49102,Yes,,No,59,Car,Yes,0,2,Good,4.0
+COM0157,Male,22,Pakistani,Punjab,Masters,Computer Science,4,3.37,66.7,10,9,7,2,51894,Yes,No,No,12,Walk,Yes,3,1,Good,1.0
+,Female,20,Bangladeshi,Dhaka,Undergraduate,Mathematics,3,2.62,96.9,8,9,5,2,42116,No,Yes,No,19,Bus,No,6,4,Average,1.0
+MAT0159,Female,26,Bangladeshi,Dhaka,PhD,Mathematics,1,3.08,76.4,2,10,7,2,31375,Yes,Yes,Yes,38,Walk,Yes,1,5,Average,4.0
+COM0160,Male,21,Pakistani,Balochistan,PhD,Computer Science,1,2.82,76.2,8,10,6,4,19270,No,No,No,35,Car,No,3,5,Average,1.0
+PSY0161,Male,22,Afghan,Herat,Undergraduate,Psychology,2,3.37,73.5,4,10,6,5,36385,Yes,No,No,50,Bike,Yes,0,4,Good,1.0
+,Male,28,Afghan,Kabul,Undergraduate,Business,1,3.06,80.8,4,10,6,5,49845,Yes,No,Yes,30,Bus,No,2,2,Good,1.0
+MAT0163,Male,24,Afghan,Herat,Masters,Mathematics,2,3.16,79.8,10,7,5,2,28476,No,Yes,No,31,Bus,Yes,0,4,Good,2.0
+BIO0164,Female,21,Afghan,Kabul,Undergraduate,Biology,1,2.88,70.2,3,6,6,3,50786,No,No,Yes,38,Bus,Yes,6,1,Good,1.0
+COM0165,Male,27,Bangladeshi,Dhaka,Undergraduate,Computer Science,3,3.3,81.0,9,4,8,5,29733,Yes,No,No,24,Car,No,6,2,Good,4.0
+PSY0166,Male,20,Pakistani,Sindh,Undergraduate,Psychology,1,2.99,69.7,10,4,5,2,16552,No,No,No,59,Bus,Yes,3,1,Poor,4.0
+MAT0167,Male,18,Pakistani,Sindh,Masters,Mathematics,1,3.29,81.9,3,9,4,5,48328,Yes,Yes,Yes,51,Bike,No,1,1,Average,5.0
+PSY0168,Male,28,Bangladeshi,Chittagong,Masters,Psychology,1,3.15,96.5,6,10,6,4,51055,No,No,No,44,Bus,Yes,0,3,Average,2.0
+BIO0169,Female,22,Pakistani,KPK,Masters,,2,2.34,70.2,4,3,5,2,34724,No,No,Yes,19,Walk,Yes,6,3,Average,5.0
+ELE0170,Female,22,Bangladeshi,Dhaka,Undergraduate,Electrical Engineering,2,2.96,94.1,4,4,6,2,26160,No,Yes,No,23,Walk,No,1,2,Good,1.0
+MAT0171,Male,28,Bangladeshi,Chittagong,PhD,Mathematics,2,3.05,81.1,1,1,5,3,20358,Yes,Yes,Yes,49,Car,No,3,1,Poor,4.0
+BUS0172,Male,22,Indian,Kerala,Masters,Business,3,3.16,85.9,8,2,6,3,33362,Yes,No,No,48,Car,Yes,6,5,Good,1.0
+MAT0173,Male,22,Indian,Delhi,Masters,Mathematics,1,2.12,90.8,10,1,6,3,16215,Yes,No,No,31,Walk,Yes,6,2,Average,5.0
+COM0174,Male,22,Bangladeshi,Dhaka,PhD,Computer Science,4,3.01,72.6,1,9,4,5,30066,Yes,No,No,11,Walk,Yes,0,5,Poor,1.0
+,Male,26,Afghan,Herat,PhD,Electrical Engineering,1,2.94,74.7,7,10,4,4,57026,Yes,Yes,No,48,Bus,No,1,5,Good,1.0
+BIO0176,Male,18,Pakistani,KPK,PhD,Biology,3,2.63,78.0,4,9,5,1,27047,No,Yes,No,23,Bus,Yes,6,1,Average,1.0
+MAT0177,Male,24,Pakistani,Balochistan,Masters,Mathematics,2,3.26,71.0,7,8,7,2,25410,No,No,Yes,5,Walk,Yes,3,3,Average,4.0
+PSY0178,Female,25,Bangladeshi,Chittagong,Undergraduate,Psychology,3,3.52,65.2,9,10,5,4,45412,No,Yes,No,40,Bike,No,2,5,Good,5.0
+ELE0179,Female,21,Pakistani,Sindh,Masters,Electrical Engineering,4,2.67,71.1,6,10,7,4,43624,No,No,Yes,14,Bus,Yes,1,2,Good,5.0
+ELE0180,Female,20,Afghan,Kabul,PhD,Electrical Engineering,3,2.35,98.1,4,9,6,2,43216,No,Yes,Yes,46,Car,Yes,4,3,Poor,1.0
+ELE0181,Female,27,Indian,Kerala,Undergraduate,Electrical Engineering,3,3.36,87.7,1,5,4,4,47257,Yes,Yes,Yes,11,Walk,No,7,3,Good,4.0
+BIO0182,Male,25,Afghan,Herat,Undergraduate,Biology,1,3.28,96.4,7,4,6,4,43439,Yes,,Yes,22,Walk,Yes,6,1,Average,3.0
+BUS0183,Male,20,Bangladeshi,Dhaka,PhD,Business,2,3.26,85.8,4,3,7,3,58838,No,No,No,43,Bike,No,0,3,Poor,1.0
+PSY0184,Male,27,Bangladeshi,Dhaka,Masters,Psychology,1,3.08,87.5,9,5,4,3,17568,Yes,Yes,Yes,59,Bus,No,0,4,Average,5.0
+PSY0185,Male,26,Pakistani,,Undergraduate,Psychology,1,3.2,69.3,7,7,4,2,37446,Yes,Yes,Yes,48,Bike,No,1,3,Good,5.0
+MAT0186,Male,25,Afghan,Kabul,PhD,Mathematics,3,2.37,72.5,5,9,4,5,30959,No,Yes,Yes,25,Bus,Yes,6,5,Poor,2.0
+ELE0187,Female,28,Bangladeshi,Chittagong,PhD,Electrical Engineering,2,4.05,65.7,1,4,8,5,23244,Yes,No,No,22,Bus,No,2,5,Good,5.0
+ELE0188,Male,22,Bangladeshi,Dhaka,Undergraduate,Electrical Engineering,4,3.24,96.9,6,4,4,4,48189,Yes,Yes,Yes,23,Walk,No,3,2,Average,5.0
+BUS0189,Female,27,Afghan,Herat,Masters,Business,4,3.0,86.5,4,1,5,4,55991,No,No,Yes,29,Walk,Yes,7,2,Average,1.0
+BIO0190,Male,20,Indian,Kerala,PhD,Biology,2,2.16,74.6,8,2,6,4,17201,No,No,Yes,57,Walk,Yes,4,2,Good,5.0
+BUS0191,Female,25,Afghan,Herat,PhD,Business,1,3.07,81.0,4,3,5,5,20531,Yes,No,Yes,7,Car,Yes,1,2,Good,3.0
+PSY0192,Female,20,Indian,Punjab,PhD,Psychology,2,2.85,66.0,9,1,7,4,53298,Yes,Yes,Yes,15,Bus,No,3,4,Average,3.0
+ELE0193,Female,22,Bangladeshi,Dhaka,Masters,Electrical Engineering,2,3.22,79.1,7,3,4,3,40030,Yes,Yes,No,40,Walk,No,7,5,Poor,5.0
+BUS0194,Female,22,Pakistani,KPK,Masters,Business,3,3.37,87.4,10,10,6,3,56916,Yes,No,Yes,34,Car,No,3,4,Good,2.0
+MAT0195,Female,23,Indian,Delhi,PhD,Mathematics,3,2.79,71.1,9,1,5,2,54515,No,Yes,No,55,Bus,Yes,1,5,Poor,3.0
+BUS0196,Female,25,Indian,Kerala,Masters,Business,4,3.68,96.3,9,9,6,5,20145,Yes,No,Yes,5,Bike,No,3,1,Poor,1.0
+PSY0197,Male,20,Pakistani,Punjab,Undergraduate,Psychology,1,2.88,89.4,5,7,5,4,21180,Yes,Yes,Yes,21,Car,Yes,0,2,Average,4.0
+PSY0198,Male,28,Indian,Delhi,PhD,Psychology,3,2.65,97.1,5,10,4,3,41916,Yes,No,No,37,Walk,Yes,5,4,Average,4.0
+BUS0199,Male,20,Afghan,Kabul,Undergraduate,Business,2,3.24,72.6,7,9,7,4,50732,No,Yes,No,35,Bike,Yes,5,5,Average,2.0
+COM0200,Male,24,Bangladeshi,Chittagong,PhD,,2,2.35,92.5,1,6,8,2,27572,Yes,No,No,47,Car,Yes,3,4,Average,4.0
+COM0201,Male,19,Pakistani,KPK,Masters,Computer Science,3,3.27,96.3,8,4,6,1,59788,No,No,No,27,Walk,Yes,7,3,Good,2.0
+COM0202,Female,21,Pakistani,Sindh,Masters,Computer Science,4,2.98,78.1,7,4,4,4,15207,No,No,No,41,Car,Yes,6,2,Average,2.0
+PSY0203,Female,27,Indian,Punjab,Masters,Psychology,4,3.17,96.4,10,1,8,2,15126,Yes,Yes,No,5,Bike,Yes,7,1,Poor,1.0
+BIO0204,Male,28,Afghan,Kabul,Undergraduate,Biology,4,2.6,94.9,9,4,5,2,31501,No,No,Yes,59,Bike,Yes,0,4,Good,3.0
+PSY0205,Male,24,Bangladeshi,Chittagong,Masters,Psychology,3,2.85,79.2,5,2,7,1,56756,Yes,No,No,,Bike,No,6,1,Poor,1.0
+,Female,25,Afghan,Kabul,PhD,Electrical Engineering,2,2.5,91.1,2,7,5,2,35867,No,No,Yes,20,Walk,No,4,4,Average,2.0
+MAT0207,Male,18,Bangladeshi,Chittagong,Undergraduate,Mathematics,4,2.79,85.7,8,2,7,4,28085,Yes,Yes,Yes,59,Bus,No,1,1,Good,1.0
+PSY0208,Female,23,Afghan,Herat,PhD,Psychology,2,2.44,92.7,7,2,4,5,37658,No,No,No,24,Bike,Yes,6,2,Average,1.0
+BUS0209,Female,28,Indian,Punjab,PhD,Business,4,2.75,96.0,7,8,5,5,24361,No,Yes,No,31,Bike,No,7,3,Average,3.0
+PSY0210,Female,20,Afghan,Kabul,PhD,Psychology,4,3.72,75.3,3,2,4,1,23070,Yes,No,No,43,Bus,Yes,2,1,Good,3.0
+,Male,25,Afghan,Herat,PhD,Computer Science,4,3.09,82.8,7,8,7,1,27393,No,Yes,No,49,Walk,No,6,4,Good,3.0
+COM0212,Female,21,Bangladeshi,Dhaka,Masters,Computer Science,4,2.94,83.6,1,5,5,3,47924,Yes,No,Yes,51,Bike,Yes,6,2,Good,2.0
+BIO0213,Male,23,Pakistani,KPK,PhD,Biology,2,2.92,67.9,1,3,8,2,48698,No,No,No,44,Walk,Yes,1,2,Poor,4.0
+BUS0214,Male,20,Indian,Delhi,Masters,Business,4,3.0,81.6,1,3,5,3,23375,No,Yes,No,10,Bike,No,0,3,Good,5.0
+MAT0215,Male,28,Pakistani,KPK,Undergraduate,Mathematics,1,2.85,83.6,2,10,4,3,53300,Yes,No,No,12,Walk,No,3,1,Poor,1.0
+COM0216,Female,24,Indian,Delhi,Undergraduate,Computer Science,3,2.94,96.3,7,2,8,4,46148,No,Yes,No,30,Bus,Yes,0,3,Good,4.0
+PSY0217,Male,21,Indian,Kerala,Undergraduate,Psychology,3,3.2,71.6,4,7,8,5,48644,Yes,Yes,Yes,43,Bus,Yes,7,2,Good,1.0
+COM0218,Male,26,Afghan,Kabul,PhD,Computer Science,3,2.9,73.7,6,4,8,1,50143,No,No,Yes,53,Car,Yes,6,2,Average,3.0
+BUS0219,Male,19,Afghan,Kabul,Masters,Business,3,2.96,79.4,5,8,4,1,21019,No,No,No,21,Bus,No,5,1,Good,3.0
+COM0220,Female,28,Afghan,Herat,Masters,Computer Science,3,3.19,89.5,8,7,6,1,45395,Yes,No,Yes,26,Bike,No,5,5,Good,5.0
+ELE0221,Male,27,Indian,Punjab,Undergraduate,Electrical Engineering,1,2.69,78.8,10,2,5,1,49045,Yes,Yes,No,20,Car,No,0,2,Average,4.0
+ELE0222,Female,27,Indian,Sinnd,PhD,Electrical Engineering,2,2.75,82.7,3,10,5,4,33785,No,No,No,15,Walk,Yes,6,5,Average,3.0
+BUS0223,Female,21,Indian,Punjab,Masters,Business,3,3.28,83.0,3,2,5,5,120000,No,No,No,20,Bus,No,1,3,Poor,2.0
+BIO0224,Female,18,Afghan,Herat,Masters,Biology,1,3.75,73.7,1,7,7,3,57317,No,Yes,No,36,Bike,No,2,1,Poor,3.0
+,Male,21,Afghan,Kabul,Undergraduate,Electrical Engineering,1,3.32,67.6,5,6,6,1,51316,Yes,No,Yes,35,Bike,Yes,7,2,Poor,3.0
+MAT0226,Female,20,Bangladeshi,Dhaka,Masters,Mathematics,2,3.39,91.7,1,10,6,2,21974,No,No,No,9,Bus,Yes,6,1,Average,2.0
+PSY0227,Male,23,Bangladeshi,Dhaka,PhD,Psychology,4,2.73,93.4,4,7,5,4,49131,No,Yes,No,21,Bike,No,3,3,Good,
+PSY0228,Male,23,Afghan,Herat,Undergraduate,Psychology,2,2.75,92.5,6,10,7,2,48344,No,No,No,39,Bus,Yes,3,2,Good,4.0
+BIO0229,Male,24,Indian,Punjab,Masters,Biology,1,3.59,73.0,10,10,6,4,50004,Yes,No,Yes,35,Bus,No,2,5,Good,2.0
+ELE0230,Male,28,Afghan,Herat,Undergraduate,Electrical Engineering,1,3.81,73.3,3,7,5,3,17499,Yes,No,No,47,Bus,Yes,6,3,Poor,5.0
+BUS0231,Female,19,Bangladeshi,Dhaka,Undergraduate,Business,4,2.78,86.0,10,3,5,5,28380,No,Yes,Yes,57,Car,Yes,2,4,Poor,4.0
+ELE0232,Female,19,Bangladeshi,,Masters,,1,2.91,91.6,2,2,6,2,20172,Yes,No,Yes,7,Car,Yes,1,2,Average,2.0
+COM0233,Male,24,Bangladeshi,Dhaka,PhD,Computer Science,3,3.05,94.1,7,8,5,1,15737,No,No,Yes,45,Car,No,5,3,Good,4.0
+BUS0234,Female,24,Afghan,Kabul,Masters,Business,3,2.4,69.4,9,5,4,3,32326,No,No,No,46,Car,No,5,5,Average,3.0
+BUS0235,Female,23,Indian,Kerala,Undergraduate,Business,4,2.91,85.2,10,7,5,4,51098,Yes,No,No,34,Car,Yes,7,4,Average,3.0
+ELE0236,Male,28,Indian,Delhi,Undergraduate,Electrical Engineering,4,2.74,97.7,5,2,4,4,20571,No,Yes,Yes,13,Car,Yes,0,3,Average,1.0
+BUS0237,Male,25,Bangladeshi,Chittagong,Masters,Business,3,3.22,77.6,4,7,8,5,38526,No,Yes,No,41,Bus,Yes,6,4,Poor,3.0
+PSY0238,Female,24,Pakistani,Sindh,Undergraduate,Psychology,1,2.19,78.0,6,1,6,2,18940,No,No,Yes,23,Bus,No,0,1,Good,2.0
+COM0239,Male,22,Indian,Punjab,PhD,Computer Science,2,3.04,94.5,10,3,8,4,43178,Yes,No,No,43,Walk,No,0,4,Average,1.0
+BIO0240,Male,18,Bangladeshi,Chittagong,PhD,Biology,3,3.5,79.2,5,10,7,1,22066,Yes,No,Yes,20,Walk,No,5,2,Poor,5.0
+BUS0241,Male,28,Pakistani,Sindh,Masters,Business,2,2.6,95.1,7,2,5,4,36516,Yes,Yes,Yes,41,Bus,Yes,7,5,Good,1.0
+MAT0242,Male,26,Pakistani,Punjab,Undergraduate,Mathematics,1,2.57,82.5,10,1,4,3,59102,No,No,No,25,Bus,No,5,2,Average,3.0
+COM0243,Male,27,Afghan,Kabul,PhD,Computer Science,2,3.51,96.4,6,5,4,4,31446,Yes,No,No,18,Car,No,1,4,Good,5.0
+BUS0244,Female,26,Bangladeshi,Dhaka,Undergraduate,Business,4,3.0,92.8,5,7,5,5,55340,No,No,Yes,33,Car,No,4,2,Good,2.0
+PSY0245,Male,25,Indian,Punjab,Masters,Psychology,3,3.36,84.1,1,5,5,1,23082,No,No,Yes,38,Bus,Yes,7,4,Poor,3.0
+PSY0246,Male,21,Indian,Delhi,Masters,Psychology,1,2.78,83.3,5,5,5,5,45766,Yes,No,No,36,Bus,Yes,5,4,Average,1.0
+MAT0247,Female,27,Afghan,Kabul,PhD,Mathematics,3,2.9,70.3,10,10,7,5,28927,No,Yes,No,17,Car,No,5,2,Average,1.0
+BIO0248,Female,24,Bangladeshi,Dhaka,Undergraduate,Biology,4,3.34,75.1,6,10,4,3,53339,Yes,No,No,18,Walk,No,2,2,Poor,2.0
+MAT0249,Male,27,Pakistani,,Masters,Mathematics,3,3.23,92.3,10,4,4,3,33775,No,Yes,Yes,14,Walk,No,5,3,Good,2.0
+PSY0250,Male,21,Bangladeshi,Chittagong,Undergraduate,Psychology,4,3.0,71.6,4,9,8,4,56215,No,No,Yes,14,Car,Yes,3,3,Poor,5.0
+BIO0251,Male,27,Pakistani,Sindh,Masters,Biology,4,2.28,67.6,9,4,6,2,56420,No,No,Yes,37,Walk,No,1,5,Good,1.0
+BIO0252,Male,19,Afghan,Kabul,Masters,Biology,3,2.07,67.5,10,1,8,2,18816,Yes,No,Yes,30,Bus,No,6,2,Good,2.0
+BUS0253,Female,19,Pakistani,KPK,PhD,Business,4,2.62,66.4,1,9,4,5,15736,No,No,Yes,34,Walk,Yes,7,3,Average,2.0
+PSY0254,Male,28,Pakistani,Sindh,PhD,Psychology,1,2.86,67.5,5,9,6,3,22218,No,Yes,Yes,56,Bike,Yes,3,2,Poor,5.0
+ELE0255,Male,18,Indian,Kerala,Undergraduate,Electrical Engineering,1,2.68,78.7,10,5,6,4,19937,Yes,Yes,No,47,Walk,No,2,5,Poor,1.0
+BUS0256,Male,21,Afghan,Herat,PhD,Business,4,3.54,84.2,10,9,7,4,53366,Yes,No,Yes,33,Car,Yes,7,1,Good,2.0
+ELE0257,Female,20,Bangladeshi,Dhaka,PhD,Electrical Engineering,4,2.42,92.3,1,5,6,2,50859,Yes,No,No,54,Walk,Yes,0,3,Average,4.0
+MAT0258,Female,21,Afghan,Kabul,Undergraduate,Mathematics,2,3.74,78.1,4,9,7,1,28567,Yes,No,Yes,41,Walk,No,2,3,Poor,3.0
+COM0259,Female,22,Afghan,Herat,PhD,Computer Science,4,3.42,82.3,2,4,8,2,34323,No,No,Yes,25,Bus,Yes,5,4,Good,4.0
+COM0260,Male,21,Bangladeshi,,Masters,Computer Science,2,2.7,93.4,4,2,5,5,49149,No,Yes,No,9,Walk,No,4,2,Average,1.0
+PSY0261,Female,27,Bangladeshi,Dhaka,Undergraduate,Psychology,3,3.6,79.0,7,10,7,3,22161,Yes,No,Yes,36,Walk,Yes,4,2,Poor,5.0
+BIO0262,Male,24,Pakistani,KPK,Undergraduate,Biology,2,2.99,67.1,7,1,6,1,48482,Yes,No,No,47,Bike,Yes,1,1,Poor,5.0
+BUS0263,Male,25,Pakistani,Balochistan,Masters,Business,1,2.84,87.2,2,5,5,5,52622,No,Yes,No,16,Car,Yes,6,3,Good,2.0
+COM0264,Female,18,Bangladeshi,Chittagong,Masters,Computer Science,4,2.8,85.0,6,9,4,1,50319,No,Yes,Yes,54,Bus,Yes,1,5,Poor,1.0
+BUS0265,Male,19,Indian,Punjab,Undergraduate,Business,2,2.94,68.9,3,2,5,1,42994,Yes,Yes,Yes,45,Bike,Yes,4,2,Average,4.0
+BIO0266,Female,20,Indian,Kerala,Masters,Biology,2,3.23,67.6,8,7,5,2,30155,No,Yes,No,33,Walk,Yes,7,2,,
+BIO0267,Female,26,Bangladeshi,Dhaka,PhD,Biology,2,4.01,78.6,1,3,6,2,54457,Yes,No,No,49,Walk,Yes,4,3,Good,1.0
+COM0268,Female,24,Pakistani,KPK,PhD,Computer Science,3,2.92,98.4,7,6,8,5,23474,Yes,Yes,Yes,49,Bus,No,0,4,Average,5.0
+COM0269,Male,18,Afghan,Kabul,Undergraduate,Computer Science,4,2.94,89.6,3,3,8,3,40854,No,No,No,18,Car,No,4,3,Average,2.0
+BIO0270,Male,27,Indian,Kerala,Undergraduate,Biology,1,2.7,85.7,1,1,5,2,33995,No,No,No,59,Bike,Yes,2,5,Poor,4.0
+MAT0271,Female,25,Afghan,Kabul,Undergraduate,Mathematics,1,2.64,71.8,3,1,4,3,52634,Yes,Yes,No,51,Bike,Yes,4,2,Good,1.0
+,Male,28,Indian,Punjab,Masters,Psychology,3,3.52,87.8,6,1,6,5,50486,Yes,No,Yes,24,Walk,Yes,4,5,,5.0
+BUS0273,Male,23,Pakistani,Punjab,Undergraduate,Business,3,2.32,93.3,10,1,4,3,43597,Yes,No,No,14,Walk,No,6,5,Poor,5.0
+PSY0274,Female,26,Afghan,Herat,PhD,Psychology,2,2.6,82.1,5,2,4,4,49888,Yes,No,No,43,Bike,No,1,3,Poor,1.0
+BUS0275,Female,18,Afghan,Herat,Undergraduate,Business,3,3.55,94.4,3,5,6,3,43950,Yes,Yes,Yes,34,Car,Yes,0,2,Good,5.0
+BIO0276,Female,22,Indian,Punjab,Undergraduate,Biology,2,3.09,96.4,7,2,8,2,33709,No,No,Yes,53,Bus,No,0,4,Average,3.0
+BIO0277,Male,23,Afghan,Kabul,PhD,Biology,4,3.15,98.9,8,4,4,1,24562,No,Yes,No,41,Bike,No,4,1,Good,5.0
+MAT0278,Female,25,Pakistani,Sindh,Masters,Mathematics,2,2.8,70.9,4,4,5,2,37118,No,Yes,Yes,58,Bike,Yes,0,3,Good,2.0
+BIO0279,Female,23,Pakistani,Punjab,PhD,Biology,4,2.95,79.6,5,10,5,3,37575,No,No,No,27,Bike,No,1,3,Good,3.0
+COM0280,Male,23,Bangladeshi,Dhaka,Masters,Computer Science,1,3.22,70.9,8,6,4,1,39104,No,No,Yes,28,Car,No,6,2,Average,5.0
+BUS0281,Male,28,Bangladeshi,Chittagong,Masters,Business,1,3.24,89.3,6,1,7,2,26250,Yes,Yes,No,31,Car,No,7,4,Good,1.0
+BUS0282,Female,25,Afghan,Kabul,Masters,Business,2,2.84,81.4,1,9,7,2,26904,Yes,Yes,No,8,Bus,No,5,3,Average,3.0
+BUS0283,Male,24,Bangladeshi,Chittagong,Undergraduate,Business,3,3.01,87.4,3,3,6,3,17611,No,Yes,Yes,12,Car,Yes,3,4,Good,3.0
+BUS0284,Female,27,Afghan,Herat,PhD,Business,1,3.31,93.1,9,7,8,3,22177,Yes,No,Yes,59,Bus,Yes,7,5,Good,1.0
+MAT0285,Male,24,Pakistani,Sindh,PhD,Mathematics,3,3.25,91.7,1,5,7,4,30766,Yes,,Yes,23,Car,No,4,5,Good,3.0
+PSY0286,Male,28,Indian,Kerala,Masters,Psychology,3,2.82,98.0,4,10,6,5,18401,No,Yes,Yes,13,Walk,No,2,4,Poor,1.0
+MAT0287,Female,27,Indian,Kerala,Undergraduate,Mathematics,2,3.56,86.0,9,8,8,2,25214,Yes,Yes,No,50,Walk,Yes,1,5,Poor,5.0
+ELE0288,Male,24,Afghan,Kabul,PhD,Electrical Engineering,2,3.64,95.6,3,6,8,4,17787,Yes,Yes,No,57,Bike,Yes,2,5,Poor,4.0
+ELE0289,Male,24,Afghan,Herat,Undergraduate,Electrical Engineering,4,3.22,88.8,8,3,7,4,39207,Yes,Yes,No,35,Walk,No,0,3,Good,3.0
+COM0290,Male,27,Indian,Punjab,Masters,Computer Science,2,2.89,68.7,2,6,6,3,18792,Yes,No,Yes,29,Car,No,7,4,Good,2.0
+COM0291,Female,26,Afghan,Kabul,PhD,Computer Science,3,2.91,82.4,6,5,6,2,20501,Yes,No,No,22,Bus,No,7,5,Good,3.0
+COM0292,Male,26,Pakistani,KPK,Undergraduate,Computer Science,1,3.19,92.4,3,2,6,5,51927,No,No,No,56,Walk,No,2,4,Good,1.0
+COM0293,Male,23,Pakistani,KPK,Undergraduate,Computer Science,2,3.62,66.3,7,5,6,2,55809,Yes,No,No,57,Walk,Yes,4,5,Poor,2.0
+ELE0294,Female,20,Afghan,Kabul,Masters,Electrical Engineering,2,2.81,79.0,1,5,6,1,53227,Yes,Yes,No,17,Walk,No,5,1,Poor,1.0
+ELE0295,Female,28,Pakistani,Balochistan,PhD,Electrical Engineering,2,2.38,83.2,5,6,6,2,55526,No,No,No,47,Walk,Yes,2,4,Average,3.0
+BIO0296,Female,21,Bangladeshi,Dhaka,Undergraduate,Biology,3,2.64,94.4,7,1,5,5,22763,No,Yes,No,34,Bus,No,3,1,Average,2.0
+ELE0297,Female,27,Indian,,Undergraduate,Electrical Engineering,4,3.37,74.2,9,7,6,2,37625,Yes,No,No,39,Bus,No,7,4,Average,5.0
+BIO0298,Male,20,Afghan,Kabul,Masters,Biology,3,2.87,81.4,4,8,5,2,46552,Yes,Yes,Yes,58,Bus,Yes,7,4,Average,3.0
+PSY0299,Male,19,Afghan,Kabul,PhD,Psychology,2,3.07,86.0,8,2,5,5,44715,Yes,No,Yes,52,Bike,Yes,2,1,Average,5.0
+ELE0300,Male,18,Indian,,PhD,Electrical Engineering,2,3.36,73.5,6,1,7,5,40460,No,Yes,Yes,36,Walk,Yes,3,4,Average,5.0
+ELE0301,Female,25,Bangladeshi,Dhaka,Masters,Electrical Engineering,2,3.06,66.1,3,5,4,4,28753,Yes,No,No,21,Bus,Yes,6,3,Average,4.0
+BUS0302,Female,20,Indian,Punjab,Undergraduate,Business,1,2.94,79.2,10,5,5,3,19001,Yes,No,Yes,40,Car,No,6,2,Poor,5.0
+BIO0303,Female,25,Pakistani,Sindh,Undergraduate,Biology,2,2.84,97.5,8,5,6,5,26481,Yes,Yes,No,53,Car,No,3,1,Poor,1.0
+BUS0304,Female,18,Afghan,Kabul,PhD,Business,2,2.57,71.5,10,1,5,3,55719,Yes,Yes,Yes,48,Walk,Yes,4,1,Poor,1.0
+PSY0305,Male,25,Pakistani,Sindh,PhD,Psychology,3,3.66,88.0,2,7,6,2,38387,No,Yes,Yes,18,Bus,No,3,2,Average,3.0
+COM0306,Male,22,Indian,Punjab,Masters,Computer Science,3,2.86,81.9,10,3,7,2,46867,No,No,No,46,Bus,Yes,5,5,Good,4.0
+BUS0307,Male,19,Afghan,Herat,PhD,Business,1,2.55,78.0,2,9,7,5,31805,Yes,No,Yes,11,Bike,Yes,6,3,Average,5.0
+ELE0308,Female,27,Afghan,Kabul,Masters,Electrical Engineering,4,3.56,89.0,8,4,7,5,22556,Yes,Yes,No,19,Bike,Yes,2,3,Poor,1.0
+COM0309,Female,23,Indian,Punjab,Masters,Computer Science,1,2.69,75.4,5,1,6,1,23575,Yes,Yes,No,9,Bike,Yes,0,3,Good,1.0
+BUS0310,Male,21,Bangladeshi,Dhaka,PhD,Business,3,3.0,73.3,9,4,7,4,58472,Yes,Yes,Yes,47,Car,Yes,2,2,Poor,2.0
+ELE0311,Female,24,Indian,Kerala,PhD,Electrical Engineering,1,3.11,98.7,10,3,8,4,46941,Yes,Yes,Yes,34,Car,No,0,1,Good,1.0
+BIO0312,Male,25,Afghan,Herat,PhD,Biology,3,3.61,93.0,9,2,5,2,42315,Yes,No,No,43,Bus,No,7,2,Average,1.0
+BUS0313,Male,26,Pakistani,Balochistan,PhD,Business,4,2.86,80.5,10,5,4,2,36503,No,No,Yes,18,Bike,No,6,3,Poor,4.0
+MAT0314,Male,24,Bangladeshi,Dhaka,Masters,Mathematics,3,2.69,96.2,1,2,4,2,27082,Yes,No,No,14,Walk,Yes,5,5,Average,5.0
+BIO0315,Male,18,Bangladeshi,Chittagong,Undergraduate,Biology,1,2.47,72.4,1,7,7,5,32482,No,Yes,Yes,53,Bus,No,0,1,Average,4.0
+MAT0316,Male,21,Indian,Kerala,Masters,Mathematics,1,2.98,95.0,7,8,7,4,25788,Yes,No,Yes,44,Walk,Yes,2,2,Average,3.0
+BIO0317,Male,19,Pakistani,Punjab,PhD,Biology,4,3.8,81.7,7,7,4,1,28069,No,No,No,54,Bus,No,6,5,Average,4.0
+COM0318,Female,20,Afghan,Herat,PhD,Computer Science,4,3.22,68.9,5,7,5,1,26293,No,No,Yes,51,Bike,Yes,4,4,Average,1.0
+BUS0319,Female,27,Bangladeshi,Dhaka,PhD,Business,2,3.46,90.6,4,9,8,4,49430,Yes,Yes,Yes,22,Walk,No,0,1,Average,5.0
+BUS0320,Male,26,Afghan,Herat,Masters,Business,2,3.14,95.3,1,5,7,1,43334,No,Yes,Yes,25,Bike,No,7,3,Poor,2.0
+MAT0321,Female,28,Afghan,Kabul,Masters,Mathematics,2,2.83,86.4,2,9,7,3,51094,No,No,Yes,7,Bus,No,5,2,Average,5.0
+BIO0322,Male,25,Indian,Kerala,Undergraduate,Biology,4,2.97,69.5,2,3,4,2,51525,Yes,No,No,22,Bus,No,5,1,Poor,3.0
+ELE0323,Male,25,Afghan,Kabul,PhD,Electrical Engineering,1,3.06,70.7,5,6,8,4,35995,No,Yes,No,16,Bus,No,5,4,Poor,1.0
+COM0324,Female,26,Afghan,Herat,Masters,Computer Science,2,3.39,67.3,9,2,8,3,56370,Yes,Yes,Yes,54,Car,No,4,2,Poor,5.0
+COM0325,Female,21,Bangladeshi,Chittagong,Masters,Computer Science,1,2.98,71.1,7,2,4,5,32540,No,No,Yes,16,Bus,Yes,6,4,Good,2.0
+BUS0326,Female,20,Indian,Punjab,PhD,Business,4,2.89,76.0,6,8,5,3,32179,Yes,No,No,20,Car,Yes,5,4,Average,4.0
+COM0327,Female,18,Bangladeshi,Dhaka,PhD,Computer Science,3,3.02,71.9,3,3,6,3,34690,No,Yes,Yes,49,Walk,Yes,2,3,Good,2.0
+COM0328,Male,23,Bangladeshi,Chittagong,Masters,Computer Science,4,2.31,85.6,1,5,6,2,24689,Yes,Yes,Yes,51,Bike,Yes,4,4,Poor,1.0
+ELE0329,Male,24,Indian,Kerala,PhD,Electrical Engineering,1,2.9,91.2,3,6,6,3,55992,Yes,No,Yes,17,Bike,No,4,3,,3.0
+BUS0330,Male,25,Afghan,Herat,Masters,Business,1,3.14,82.8,9,9,5,2,44109,Yes,No,Yes,26,Bus,No,6,2,Good,5.0
+BUS0331,Female,26,Bangladeshi,Chittagong,Masters,Business,2,3.15,81.5,2,7,4,2,34837,No,No,No,32,Bus,No,4,4,Good,1.0
+ELE0332,Male,18,Bangladeshi,Dhaka,Undergraduate,Electrical Engineering,4,2.88,89.5,9,7,8,3,49593,Yes,No,No,53,Bus,Yes,1,2,Average,2.0
+COM0333,Female,22,Pakistani,KPK,Undergraduate,Computer Science,3,2.3,90.4,8,3,4,3,57177,Yes,No,Yes,36,Car,No,2,2,Good,3.0
+PSY0334,Female,19,Pakistani,KPK,Masters,Psychology,1,2.97,110.0,4,1,5,2,38721,No,Yes,No,49,Bus,Yes,3,1,Poor,4.0
+PSY0335,Female,27,Indian,Kerala,Masters,Psychology,4,3.26,96.7,2,9,7,5,20871,No,No,No,21,Bike,No,1,2,Average,4.0
+COM0336,Female,18,Indian,Kerala,Masters,Computer Science,1,3.06,75.2,2,5,7,3,23133,Yes,Yes,Yes,7,Car,Yes,5,4,Poor,3.0
+MAT0337,Male,21,Bangladeshi,Chittagong,PhD,Mathematics,2,2.88,67.3,4,9,5,5,50983,Yes,No,Yes,31,Bus,No,7,5,Good,5.0
+ELE0338,Female,26,Indian,Punjab,Undergraduate,Electrical Engineering,1,2.68,73.6,8,4,4,5,27328,Yes,No,No,29,Bus,No,0,2,Average,5.0
+PSY0339,Male,21,Indian,Delhi,PhD,Psychology,4,3.14,70.1,7,7,7,2,31874,No,Yes,No,8,Bus,No,5,4,Good,1.0
+MAT0340,Male,20,Bangladeshi,Chittagong,Undergraduate,Mathematics,1,2.6,93.0,4,10,7,3,21041,Yes,Yes,No,53,Bus,No,2,4,Poor,3.0
+COM0341,Female,27,Pakistani,Punjab,Masters,Computer Science,3,2.47,94.1,5,9,6,4,50527,No,Yes,Yes,56,Walk,No,5,3,Good,3.0
+BUS0342,Male,22,Afghan,Kabul,Masters,Business,1,2.69,65.2,5,7,5,2,35442,Yes,Yes,Yes,9,Walk,Yes,4,1,Good,4.0
+BUS0343,Female,18,Pakistani,KPK,Undergraduate,Business,3,3.06,96.2,5,6,4,5,28610,No,No,No,46,Car,No,7,5,Average,5.0
+MAT0344,Female,20,Pakistani,Sindh,Undergraduate,Mathematics,1,2.91,71.2,1,10,6,1,35710,Yes,No,Yes,,Bike,Yes,0,3,Good,5.0
+COM0345,Male,19,Bangladeshi,Dhaka,Masters,Computer Science,2,2.64,92.4,3,7,4,2,24253,Yes,Yes,No,16,Walk,Yes,5,4,Average,3.0
+BUS0346,Femle,22,Pakistani,Punjab,Masters,Business,4,2.83,73.2,7,10,6,1,43105,No,No,Yes,40,Bus,Yes,2,4,Poor,5.0
+PSY0347,Male,25,Afghan,Herat,Undergraduate,Psychology,3,2.79,75.3,8,6,4,4,56122,No,No,No,43,Walk,Yes,0,5,Average,1.0
+PSY0348,Male,21,Indian,Kerala,PhD,Psychology,1,3.04,89.6,1,9,4,4,16327,No,No,No,47,Walk,No,1,2,Poor,4.0
+COM0349,Female,22,Bangladeshi,Dhaka,Masters,Computer Science,4,3.07,87.7,7,2,8,4,15058,No,No,No,40,Car,No,7,5,Good,2.0
+BIO0350,Male,28,Indian,Delhi,PhD,Biology,2,3.32,85.1,4,7,8,2,24800,Yes,Yes,Yes,34,Car,No,6,4,Good,5.0
+ELE0351,Male,18,Pakistani,Sindh,PhD,Electrical Engineering,4,3.29,72.1,7,6,6,2,45093,No,Yes,No,14,Car,Yes,5,2,Poor,3.0
+ELE0352,Female,25,Pakistani,Balochistan,Undergraduate,Electrical Engineering,4,3.01,92.8,9,8,8,4,29720,Yes,No,No,43,Walk,Yes,5,2,Average,4.0
+MAT0353,Female,20,Pakistani,Punjab,Masters,Mathematics,4,2.93,88.8,10,10,8,2,33964,No,No,No,25,Walk,No,5,3,Average,5.0
+BUS0354,Male,25,Pakistani,KPK,Masters,Business,3,3.12,69.6,6,6,7,5,41285,Yes,Yes,No,40,Bike,Yes,7,2,Good,5.0
+MAT0355,Male,27,Afghan,Herat,Masters,Mathematics,3,2.5,69.0,6,4,7,3,21262,No,Yes,Yes,43,Bike,No,1,1,Good,2.0
+BIO0356,Female,21,Afghan,Herat,Masters,Biology,4,3.05,78.7,6,9,6,2,48609,Yes,No,No,12,Bus,No,1,1,Poor,5.0
+BIO0357,Male,26,Indian,Delhi,Undergraduate,Biology,2,2.09,70.5,6,8,6,3,50253,Yes,No,No,23,Walk,No,3,3,Poor,5.0
+BUS0358,Female,25,Bangladeshi,Chittagong,PhD,Business,2,2.81,75.3,6,1,5,2,27511,No,Yes,No,24,Bike,Yes,5,1,Good,3.0
+COM0359,Female,26,Afghan,Kabul,Masters,Computer Science,4,3.32,89.0,10,2,5,4,58221,No,No,Yes,7,Walk,Yes,2,5,Good,5.0
+PSY0360,Male,20,Pakistani,Sindh,Undergraduate,Psychology,2,3.34,79.1,4,6,7,4,26715,Yes,Yes,Yes,13,Bike,No,2,1,Good,4.0
+ELE0361,Female,25,Pakistani,KPK,Undergraduate,Electrical Engineering,2,3.12,95.6,2,6,8,4,40184,Yes,Yes,No,33,Car,No,6,2,,2.0
+COM0362,Female,25,Indian,Punjab,Masters,Computer Science,4,3.89,87.2,5,1,6,5,28561,No,No,No,49,Bike,Yes,0,3,Average,1.0
+COM0363,Female,26,Bangladeshi,Dhaka,PhD,Computer Science,2,3.28,72.8,1,1,4,1,59540,No,No,No,29,Bike,Yes,6,5,Good,4.0
+BIO0364,Male,24,Bangladeshi,Dhaka,Undergraduate,Biology,4,3.45,78.4,5,2,5,5,56063,No,Yes,Yes,47,Bike,No,3,5,Good,2.0
+PSY0365,Male,27,Indian,Delhi,PhD,Psychology,1,2.7,90.0,10,8,6,2,35669,Yes,No,Yes,5,Walk,Yes,5,3,Poor,1.0
+BUS0366,Female,19,Bangladeshi,Chittagong,Masters,Business,1,3.08,98.8,8,2,4,5,57347,Yes,No,Yes,59,Car,No,1,5,Good,3.0
+BIO0367,Male,26,Indian,Kerala,PhD,Biology,3,2.79,67.1,6,1,5,2,49453,Yes,No,Yes,17,Car,No,4,1,Average,4.0
+BUS0368,Male,25,Pakistani,Sindh,PhD,Business,2,2.41,84.7,5,10,6,5,56335,Yes,Yes,Yes,11,Bus,No,2,1,Good,4.0
+BIO0369,Male,23,Bangladeshi,Dhaka,PhD,,3,2.99,69.4,9,6,6,2,37944,No,Yes,Yes,38,Bus,Yes,4,4,Good,4.0
+MAT0370,Male,23,Afghan,Herat,PhD,Mathematics,4,2.83,86.5,7,10,5,3,37734,Yes,Yes,Yes,53,Walk,Yes,2,5,Poor,2.0
+BUS0371,Female,28,Indian,Punjab,PhD,Business,3,2.69,92.3,9,3,8,3,52490,No,Yes,Yes,28,Car,No,0,5,Good,4.0
+BIO0372,Female,21,Afghan,Kabul,PhD,Biology,4,3.04,86.1,1,7,6,3,59347,Yes,Yes,No,46,Bus,Yes,7,5,Poor,3.0
+MAT0373,Female,28,Bangladeshi,Chittagong,PhD,Mathematics,3,2.77,78.1,4,5,7,3,26485,Yes,No,No,18,Bus,No,6,1,Good,1.0
+PSY0374,Male,18,Pakistani,Punjab,Masters,Psychology,3,3.17,96.8,5,4,5,1,55079,Yes,No,Yes,10,Walk,No,4,5,Poor,2.0
+BUS0375,Male,26,Indian,Kerala,Masters,Business,4,2.88,81.5,7,1,5,2,31767,Yes,No,Yes,15,Bike,Yes,6,1,Average,2.0
+PSY0376,Female,26,Indian,Kerala,Masters,Psychology,4,2.52,74.9,2,4,6,5,52156,No,Yes,Yes,22,Car,No,6,5,Good,4.0
+BIO0377,Male,24,Pakistani,Balochistan,Undergraduate,Biology,1,2.87,98.1,2,6,5,1,21573,No,Yes,Yes,40,Car,No,2,2,Good,3.0
+COM0378,Female,24,Afghan,Kabul,Undergraduate,Computer Science,2,3.31,73.2,10,8,5,2,23957,Yes,No,No,21,Bus,No,1,2,Average,5.0
+BIO0379,Female,21,Bangladeshi,Dhaka,PhD,Biology,4,2.84,87.5,4,7,5,2,30864,No,Yes,Yes,20,Bike,No,3,2,Poor,5.0
+BIO0380,Male,25,Afghan,Kabul,PhD,Biology,2,4.12,91.0,2,2,6,1,57672,Yes,Yes,No,7,Bike,No,4,2,Average,2.0
+BUS0381,Female,23,Pakistani,Balochistan,PhD,Business,3,2.09,95.8,9,10,5,2,40107,No,Yes,No,46,Bus,Yes,7,2,Good,5.0
+COM0382,Female,19,Pakistani,KPK,Masters,Computer Science,1,2.45,73.5,5,1,4,1,38842,No,No,No,5,Car,No,1,1,Average,2.0
+ELE0383,Male,28,Bangladeshi,Chittagong,Undergraduate,Electrical Engineering,3,3.39,98.2,5,2,5,5,22524,Yes,No,Yes,,Car,Yes,4,4,Average,1.0
+COM0384,Male,23,Indian,Delhi,Masters,Computer Science,1,3.01,98.0,8,10,7,1,58607,Yes,No,Yes,47,Car,No,6,2,Poor,1.0
+MAT0385,Female,23,Bangladeshi,Dhaka,Masters,,3,2.72,77.9,6,9,8,1,49836,No,No,Yes,24,Car,No,0,3,Good,5.0
+MAT0386,Male,25,Bangladeshi,Dhaka,Undergraduate,Mathematics,1,3.66,97.0,6,3,6,4,26057,Yes,No,Yes,14,Bike,Yes,4,4,Good,5.0
+PSY0387,Female,23,Afghan,Kabul,Masters,Psychology,3,3.34,73.0,1,7,4,2,37296,Yes,No,Yes,53,Walk,No,2,3,Good,3.0
+BIO0388,Female,19,Pakistani,Punjab,Undergraduate,Biology,4,3.15,82.4,1,3,7,3,22596,No,No,No,20,Bike,No,7,1,Poor,2.0
+PSY0389,Male,18,Afghan,Herat,PhD,Psychology,2,2.56,88.0,5,4,5,5,50015,No,Yes,No,58,Walk,Yes,4,2,Good,2.0
+BIO0390,Male,24,Pakistani,KPK,Masters,Biology,2,2.97,72.8,5,8,7,2,45345,Yes,No,No,28,Bus,Yes,0,4,Good,3.0
+MAT0391,Male,28,Afghan,Herat,Undergraduate,Mathematics,4,3.43,91.5,1,2,6,5,59852,No,No,Yes,14,Car,Yes,7,1,Poor,1.0
+ELE0392,Female,20,Pakistani,Punjab,PhD,Electrical Engineering,4,3.34,66.2,1,3,4,4,54966,Yes,Yes,Yes,16,Car,No,4,4,Poor,3.0
+ELE0393,Male,27,Indian,Punjab,Undergraduate,Electrical Engineering,2,3.27,83.5,3,10,5,4,40344,No,Yes,Yes,11,Bike,No,4,2,Poor,4.0
+BIO0394,Female,25,Bangladeshi,Dhaka,PhD,Biology,2,3.65,80.8,8,8,5,1,46261,Yes,Yes,Yes,39,Bike,Yes,7,3,Poor,5.0
+BUS0395,Female,19,Bangladeshi,Chittagong,Masters,Business,3,2.89,74.7,8,10,5,1,37725,No,No,Yes,38,Bike,No,1,3,Average,5.0
+PSY0396,Female,24,Pakistani,Sindh,Undergraduate,Psychology,3,2.97,89.9,9,7,8,2,47635,No,Yes,Yes,9,Bike,Yes,5,5,Good,4.0
+PSY0397,Male,24,Afghan,Kabul,PhD,Psychology,1,2.72,81.2,9,4,4,5,18764,Yes,No,Yes,,Car,Yes,1,5,Average,4.0
+BIO0398,Female,20,Bangladeshi,Dhaka,Undergraduate,Biology,2,3.82,96.0,8,4,5,4,53444,Yes,No,Yes,42,Walk,No,4,3,Average,3.0
+PSY0399,Male,23,Afghan,Herat,PhD,Psychology,1,2.65,97.8,10,9,5,2,16316,No,No,No,19,Bus,Yes,1,3,Poor,2.0
+MAT0400,Male,20,Bangladeshi,Dhaka,Undergraduate,Mathematics,4,3.93,72.9,3,5,4,3,58869,No,No,Yes,25,Walk,Yes,0,2,Average,2.0
+MAT0401,Male,28,Bangladeshi,Dhaka,Masters,Mathematics,2,3.79,84.6,7,8,5,1,52904,Yes,Yes,No,12,Bike,No,1,3,Poor,3.0
+BIO0402,Female,19,Pakistani,Balochistan,PhD,Biology,3,2.8,74.0,7,9,7,4,58143,Yes,No,No,47,Car,No,5,1,Good,5.0
+BIO0403,Female,23,Indian,Delhi,PhD,Biology,3,3.1,70.7,1,4,8,2,44652,Yes,No,Yes,43,Bus,No,0,2,Average,3.0
+BIO0404,Male,21,Afghan,Herat,PhD,Biology,1,2.49,66.6,5,2,5,1,52483,Yes,No,Yes,18,Car,Yes,4,5,Average,3.0
+BIO0405,Female,28,Indian,Kerala,Undergraduate,Biology,4,1.61,87.3,3,4,8,1,18425,Yes,Yes,No,24,Bike,Yes,6,3,Good,4.0
+ELE0406,Male,27,Indian,Kerala,Undergraduate,Electrical Engineering,3,3.51,96.1,8,4,7,5,48119,No,No,Yes,17,Walk,No,3,1,Poor,3.0
+,Female,26,Bangladeshi,Chittagong,Masters,Mathematics,4,3.53,66.7,4,9,7,4,53884,No,Yes,Yes,20,Bus,Yes,1,5,Average,1.0
+COM0408,Male,19,Indian,Punjab,Undergraduate,Computer Science,3,2.87,73.1,7,9,8,3,46851,No,No,No,47,Bus,Yes,5,3,Average,5.0
+ELE0409,Male,23,Pakistani,Balochistan,PhD,Electrical Engineering,2,3.25,70.5,7,1,8,2,24277,No,Yes,No,35,Walk,No,7,1,Good,2.0
+ELE0410,Female,23,Afghan,Kabul,PhD,Electrical Engineering,3,3.35,97.7,5,9,7,5,35961,No,Yes,Yes,23,Bike,Yes,7,4,Average,5.0
+BUS0411,Female,22,Indian,Kerala,Masters,Business,1,2.71,77.6,1,6,6,1,31377,No,No,No,15,Car,No,0,2,Average,5.0
+ELE0412,Male,24,Afghan,Kabul,Undergraduate,Electrical Engineering,3,2.89,72.6,2,9,6,2,50603,No,No,Yes,48,Car,Yes,6,5,Average,1.0
+MAT0413,Male,24,Bangladeshi,Chittagong,PhD,Mathematics,4,3.18,88.7,5,7,6,4,52407,No,Yes,Yes,34,Walk,No,0,1,Poor,5.0
+PSY0414,Female,18,Afghan,Herat,PhD,Psychology,4,2.76,77.1,10,10,5,2,21513,Yes,Yes,Yes,30,Bike,Yes,0,5,Good,3.0
+MAT0415,Female,24,Afghan,Herat,Masters,Mathematics,2,2.27,68.6,6,7,8,5,48293,No,Yes,No,30,Walk,No,7,3,Average,2.0
+PSY0416,Male,26,Pakistani,KPK,PhD,Psychology,4,2.72,85.6,2,1,8,3,48083,Yes,Yes,Yes,56,Walk,Yes,4,3,Average,5.0
+,Male,27,Afghan,Herat,Undergraduate,Mathematics,4,3.11,94.1,7,3,5,2,58910,No,No,No,45,Bus,Yes,3,2,Good,1.0
+COM0418,Male,26,Pakistani,KPK,Masters,Computer Science,1,2.89,86.2,7,9,6,1,36971,No,Yes,No,,Bus,No,4,4,Good,1.0
+ELE0419,Female,27,Indian,Punjab,PhD,,2,2.21,78.7,4,10,8,4,36965,Yes,No,No,43,Car,Yes,4,2,Poor,2.0
+BUS0420,Male,26,Afghan,Kabul,PhD,Business,3,3.34,98.0,9,2,7,5,58064,No,No,No,8,Walk,No,0,2,Poor,2.0
+PSY0421,Male,22,Pakistani,Sindh,PhD,Psychology,4,3.22,66.9,9,4,6,3,43277,Yes,Yes,Yes,25,Walk,No,0,3,Average,2.0
+BUS0422,Female,26,Indian,Punjab,Undergraduate,Business,4,3.8,91.0,4,5,4,3,23434,No,Yes,No,54,Walk,No,1,1,Poor,1.0
+COM0423,Female,18,Bangladeshi,Chittagong,PhD,Computer Science,1,2.39,88.1,4,6,8,4,35442,Yes,Yes,No,41,Bike,Yes,5,3,Good,4.0
+COM0424,Male,24,Afghan,Kabul,PhD,Computer Science,1,2.52,76.2,1,6,8,2,35471,Yes,No,No,25,Car,Yes,0,2,Poor,3.0
+MAT0425,Female,26,Pakistani,Sindh,Masters,Mathematics,4,3.13,85.0,7,9,8,4,50031,Yes,Yes,Yes,55,Walk,No,4,3,Average,3.0
+COM0426,Male,23,Indian,Delhi,PhD,Computer Science,4,3.25,81.8,6,7,6,4,39695,No,No,Yes,12,Bus,Yes,0,2,Good,4.0
+PSY0427,Female,18,Bangladeshi,Chittagong,Masters,Psychology,1,2.85,73.7,10,9,5,5,58009,Yes,Yes,Yes,54,Bike,Yes,3,5,Good,3.0
+PSY0428,Male,24,Pakistani,KPK,PhD,Psychology,2,3.57,93.2,3,3,4,1,39901,Yes,No,Yes,21,Walk,Yes,7,4,Poor,4.0
+BIO0429,Female,26,Bangladeshi,Dhaka,Undergraduate,Biology,3,3.4,67.3,7,7,8,2,47804,No,No,No,54,Bike,No,2,3,Average,3.0
+ELE0430,Male,27,Bangladeshi,Dhaka,Masters,,2,3.69,82.5,2,4,8,4,45270,No,Yes,Yes,17,Bike,Yes,4,1,Average,5.0
+BIO0431,Female,18,Pakistani,Sindh,Masters,Biology,1,2.89,80.1,5,3,5,2,23656,No,No,No,18,Car,Yes,7,2,Average,1.0
+BUS0432,Female,24,Bangladeshi,Dhaka,Masters,Business,2,3.1,88.6,4,6,4,1,15609,No,No,No,7,Car,No,7,4,Average,3.0
+COM0433,Male,23,Bangladeshi,Chittagong,Undergraduate,Computer Science,2,3.07,81.1,7,6,5,4,42110,No,Yes,Yes,53,Bus,No,3,5,Poor,1.0
+BIO0434,Male,20,Indian,,Undergraduate,Biology,1,3.07,80.4,9,7,4,2,50231,Yes,Yes,No,31,Car,No,4,2,Good,2.0
+COM0435,Male,24,Indian,Kerala,PhD,Computer Science,3,3.16,65.1,4,9,7,3,42145,Yes,Yes,No,33,Bike,Yes,5,2,Good,5.0
+PSY0436,Female,25,Bangladeshi,Dhaka,Masters,Psychology,2,2.28,81.6,2,2,5,1,17931,Yes,No,No,45,Car,Yes,2,5,Average,3.0
+BIO0437,Female,28,Indian,Punjab,Masters,Biology,2,2.66,70.2,5,2,8,1,30265,No,Yes,Yes,9,Bus,No,5,5,Good,4.0
+COM0438,Female,27,Afghan,Herat,Masters,Computer Science,4,2.5,74.4,4,9,7,5,48965,Yes,Yes,No,40,Car,Yes,0,2,Poor,2.0
+BUS0439,Male,27,Indian,Punjab,Undergraduate,,3,3.3,87.7,5,6,6,2,19441,No,Yes,Yes,38,Walk,No,3,2,Good,4.0
+PSY0440,Male,26,Bangladeshi,Chittagong,Masters,Psychology,3,4.06,98.7,6,10,6,3,19490,No,,No,41,Walk,No,6,1,Average,1.0
+COM0441,Male,19,Indian,Punjab,Undergraduate,Computer Science,4,3.0,65.2,7,4,8,4,57260,Yes,Yes,Yes,59,Bike,No,0,1,Poor,2.0
+MAT0442,Female,25,Indian,Kerala,Undergraduate,Mathematics,1,3.1,65.2,2,3,4,2,48164,No,Yes,No,,Bike,No,0,4,Average,1.0
+MAT0443,Female,23,Pakistani,Balochistan,Masters,Mathematics,1,3.49,89.2,7,4,4,4,44098,Yes,No,Yes,34,Car,Yes,3,3,Poor,3.0
+COM0444,Female,22,Afghan,Kabul,Masters,Computer Science,3,3.25,83.8,5,2,8,2,16870,No,No,Yes,10,Car,No,0,1,Good,2.0
+PSY0445,Male,23,Afghan,Kabul,PhD,Psychology,2,3.1,94.7,3,8,1,3,55134,Yes,,Yes,19,Walk,Yes,0,3,Poor,3.0
+COM0446,Male,23,Bangladeshi,Chittagong,Masters,Computer Science,2,3.29,94.1,10,8,4,1,45628,No,Yes,No,24,Bus,Yes,6,3,Average,4.0
+COM0447,Female,23,Bangladeshi,Chittagong,PhD,Computer Science,4,3.35,91.7,1,2,7,1,20279,No,No,Yes,59,Bus,No,5,4,Average,5.0
+ELE0448,Female,27,Bangladeshi,Chittagong,PhD,Electrical Engineering,4,3.0,82.3,2,9,5,5,47752,Yes,Yes,No,32,Walk,No,6,2,Good,4.0
+BIO0449,Female,26,Indian,Kerala,Undergraduate,Biology,1,2.79,88.1,7,8,6,4,20824,Yes,No,No,24,Bike,Yes,3,4,Good,1.0
+COM0450,Female,18,Pakistani,KPK,Undergraduate,,3,3.03,89.3,1,7,5,3,16457,No,Yes,Yes,59,Walk,Yes,6,4,Good,3.0
+COM0451,Female,21,Afghan,Kabul,Undergraduate,Computer Science,1,2.68,84.6,2,6,4,1,25530,Yes,Yes,Yes,55,Walk,No,2,5,Good,3.0
+COM0452,Male,24,Afghan,Kabul,Masters,Computer Science,2,2.85,90.5,6,3,5,4,25375,No,No,Yes,57,Bike,No,7,5,Good,4.0
+ELE0453,Female,18,Bangladeshi,Dhaka,Undergraduate,Electrical Engineering,4,2.57,96.2,8,5,6,3,44135,No,No,No,23,Car,No,1,3,Good,5.0
+PSY0454,Male,19,Pakistani,KPK,Undergraduate,Psychology,3,2.77,97.7,7,6,4,4,55088,No,Yes,Yes,37,Bike,No,3,3,Good,
+BUS0455,Male,26,Indian,Punjab,Masters,Business,1,3.83,86.0,9,2,7,1,49196,No,Yes,Yes,28,Car,No,1,5,Good,3.0
+MAT0456,Male,23,Indian,Punjab,Masters,Mathematics,2,3.46,83.9,4,4,4,2,51013,Yes,Yes,Yes,38,Walk,Yes,4,3,Average,4.0
+MAT0457,Male,26,Bangladeshi,Dhaka,Masters,Mathematics,1,3.34,94.8,6,10,4,2,20455,Yes,Yes,Yes,11,Car,No,3,5,Good,2.0
+BIO0458,Female,19,Afghan,Kabul,Undergraduate,Biology,2,3.06,73.6,6,6,6,2,36077,Yes,No,No,40,Walk,No,0,2,Average,2.0
+ELE0459,Female,18,Bangladeshi,Chittagong,Masters,Electrical Engineering,4,2.38,83.2,10,7,8,1,58001,Yes,Yes,Yes,48,Walk,Yes,6,1,Good,3.0
+BIO0460,Female,28,Afghan,Herat,Masters,Biology,3,3.64,80.2,1,8,4,5,44137,Yes,No,Yes,24,Bus,No,3,3,Poor,2.0
+ELE0461,Female,18,Afghan,Kabul,Masters,Electrical Engineering,3,3.16,86.9,4,2,4,4,41157,No,Yes,No,58,Car,No,6,4,Poor,1.0
+COM0462,Female,22,Bangladeshi,Dhaka,Undergraduate,Computer Science,2,2.24,67.2,6,10,5,1,38132,No,Yes,Yes,33,Car,Yes,2,2,Poor,4.0
+BIO0463,Female,22,Indian,Punjab,Undergraduate,Biology,2,2.68,69.0,1,10,5,2,49547,No,Yes,No,30,Car,No,5,2,Poor,2.0
+MAT0464,Male,22,Afghan,Kabul,Undergraduate,Mathematics,2,3.39,83.5,5,1,6,2,53727,No,Yes,No,8,Car,Yes,6,2,Poor,1.0
+BUS0465,Male,27,Bangladeshi,Chittagong,PhD,Business,3,2.94,79.9,4,9,6,5,53235,No,No,No,19,Car,Yes,0,4,Average,5.0
+ELE0466,Female,27,Indian,Kerala,Masters,Electrical Engineering,2,2.56,65.7,7,2,4,4,23685,Yes,No,Yes,52,Walk,No,3,4,Average,2.0
+BUS0467,Female,19,Indian,Punjab,PhD,Business,1,3.3,65.1,3,4,6,1,19682,No,No,Yes,58,Walk,Yes,2,3,Good,5.0
+PSY0468,Female,27,Indian,Punjab,Masters,Psychology,1,3.13,70.3,1,4,6,2,24278,Yes,No,No,12,Walk,Yes,3,5,Good,3.0
+ELE0469,Female,24,Afghan,Kabul,Undergraduate,Electrical Engineering,3,3.11,86.5,5,10,8,3,42792,No,No,No,35,Car,No,3,3,Poor,2.0
+COM0470,Male,24,Afghan,Kabul,Masters,Computer Science,1,2.95,76.3,9,2,4,1,52568,No,Yes,No,45,Bike,No,0,1,Average,3.0
+PSY0471,Male,28,Bangladeshi,Chittagong,PhD,Psychology,1,2.58,98.1,4,4,7,4,25579,No,No,Yes,51,Bus,Yes,4,5,Good,5.0
+MAT0472,Male,26,Pakistani,Punjab,Masters,Mathematics,2,3.07,87.3,10,2,5,1,43413,Yes,No,Yes,11,Bike,No,6,3,Poor,3.0
+COM0473,Male,27,Indian,Delhi,Masters,Computer Science,1,2.94,66.3,10,10,4,4,36998,Yes,No,Yes,9,Car,Yes,2,2,Good,1.0
+PSY0474,Female,25,Afghan,Herat,PhD,Psychology,2,2.92,75.1,1,3,6,3,21304,No,No,Yes,58,Bike,Yes,7,4,Good,1.0
+MAT0475,Male,26,Pakistani,Sindh,Masters,Mathematics,2,3.49,97.9,6,5,8,2,51498,No,Yes,No,20,Walk,No,6,1,Average,4.0
+PSY0476,Male,19,Indian,Punjab,PhD,Psychology,4,2.88,72.9,9,8,5,3,27747,Yes,No,Yes,45,Car,No,2,4,Average,1.0
+BUS0477,Male,22,Pakistani,Balochistan,Undergraduate,Business,4,2.7,69.5,4,3,6,5,23869,Yes,Yes,Yes,38,Walk,Yes,6,3,Average,3.0
+PSY0478,Male,20,Afghan,Herat,Masters,Psychology,2,3.17,92.4,10,8,4,4,37594,No,Yes,Yes,41,Car,No,1,2,Good,1.0
+BIO0479,Female,18,Pakistani,Punjab,Masters,Biology,1,2.77,73.9,3,8,5,1,55873,No,Yes,Yes,56,Walk,No,7,4,Poor,1.0
+PSY0480,Male,28,Pakistani,,Undergraduate,Psychology,2,2.97,82.4,10,5,7,3,54647,No,No,No,46,Bike,Yes,2,4,Poor,3.0
+ELE0481,Female,26,Indian,Delhi,Masters,Electrical Engineering,4,3.72,82.4,8,9,7,5,42146,Yes,Yes,No,22,Bus,No,5,1,Average,4.0
+MAT0482,Female,22,Pakistani,Balochistan,Masters,Mathematics,2,3.37,90.7,8,4,4,1,21397,No,No,No,21,Bike,Yes,2,3,Good,1.0
+BUS0483,Female,25,Pakistani,KPK,Undergraduate,Business,2,3.53,87.1,10,5,5,5,57035,Yes,Yes,No,11,Bus,Yes,5,5,Poor,4.0
+BIO0484,Male,19,Pakistani,Sindh,PhD,Biology,1,3.02,86.9,3,1,5,2,25139,No,No,Yes,36,Bus,Yes,4,2,Good,5.0
+COM0485,Female,26,Afghan,Kabul,Undergraduate,Computer Science,1,3.02,96.3,4,5,5,1,25766,Yes,Yes,No,11,Car,No,7,3,Good,3.0
+ELE0486,Male,21,Afghan,Kabul,PhD,Electrical Engineering,1,2.58,72.8,2,5,4,3,23481,No,No,Yes,17,Car,No,7,2,Good,
+ELE0487,Male,20,Afghan,Kabul,Masters,Electrical Engineering,2,3.79,98.5,8,2,8,2,50640,Yes,Yes,No,44,Bus,Yes,1,4,Average,1.0
+PSY0488,Male,20,Afghan,Herat,Masters,Psychology,1,3.06,66.6,10,3,8,1,50150,Yes,No,Yes,12,Car,Yes,0,2,Poor,5.0
+MAT0489,Female,20,Bangladeshi,Chittagong,PhD,Mathematics,4,3.05,79.5,4,8,8,5,21243,Yes,Yes,Yes,20,Walk,No,3,3,Average,1.0
+BIO0490,Male,25,Afghan,Kabul,Undergraduate,Biology,3,2.81,66.5,1,5,8,3,54410,Yes,Yes,Yes,31,Bus,No,7,3,Poor,5.0
+BUS0491,Female,21,Afghan,Kabul,PhD,Business,2,2.89,73.5,9,4,8,4,38408,No,Yes,No,10,Bike,No,4,1,Good,3.0
+ELE0492,Male,27,Pakistani,Punjab,Masters,,3,2.56,71.4,3,5,8,5,35500,No,No,Yes,51,Bus,Yes,4,2,Average,5.0
+MAT0493,Male,24,Pakistani,Sindh,PhD,Mathematics,4,2.68,93.8,3,9,4,2,26250,No,Yes,No,5,Walk,Yes,6,1,Good,3.0
+PSY0494,Male,19,Bangladeshi,Dhaka,PhD,Psychology,1,2.57,73.7,3,7,6,4,47533,No,Yes,No,22,Bus,No,7,2,Good,4.0
+ELE0495,Female,26,Afghan,Kabul,PhD,Electrical Engineering,1,2.51,77.9,8,6,7,3,34922,Yes,No,No,32,Car,Yes,1,4,Good,4.0
+PSY0496,Male,18,Indian,Delhi,Undergraduate,Psychology,4,2.95,97.2,6,7,7,4,56974,No,No,Yes,29,Bus,Yes,4,2,Good,1.0
+COM0497,Male,20,Pakistani,KPK,Undergraduate,Computer Science,1,3.02,86.7,4,8,4,1,28445,Yes,Yes,No,45,Bus,Yes,3,5,Good,1.0
+BIO0498,Male,18,Indian,Delhi,Masters,Biology,3,3.05,76.6,3,1,7,3,22596,No,Yes,Yes,21,Bus,No,2,3,Average,3.0
+BIO0499,Female,28,Bangladeshi,Chittagong,PhD,Biology,2,2.61,73.5,1,2,4,1,22381,Yes,Yes,Yes,11,Walk,Yes,7,3,Poor,1.0
+BUS0500,Female,27,Pakistani,Sindh,Masters,Business,1,3.24,90.9,7,3,5,3,57453,No,Yes,No,24,Car,No,5,4,Poor,3.0
+COM0501,Male,24,Indian,Punjab,Masters,Computer Science,1,3.59,77.0,4,1,5,1,26354,Yes,Yes,Yes,43,Bike,No,2,2,Good,5.0
+COM0502,Male,23,Afghan,Herat,Masters,Computer Science,4,3.32,91.3,5,3,5,3,39348,Yes,No,No,46,Walk,Yes,5,2,Average,3.0
+BIO0503,Female,20,Indian,Delhi,Masters,Biology,3,3.5,98.9,4,4,8,5,22866,No,No,Yes,34,Bike,Yes,1,1,Good,2.0
+BIO0504,Female,20,Pakistani,KPK,Undergraduate,Biology,1,3.28,88.8,6,4,5,1,30535,Yes,No,Yes,48,Walk,Yes,5,5,Good,
+BUS0505,Female,22,Bangladeshi,Dhaka,PhD,Business,1,3.25,86.8,3,4,6,2,33006,Yes,No,No,34,Bike,Yes,6,3,Good,3.0
+BUS0506,Male,25,Pakistani,Balochistan,Undergraduate,Business,2,3.07,73.1,6,7,7,4,24255,Yes,Yes,No,49,Car,No,0,5,Good,1.0
+BUS0507,Male,25,Pakistani,KPK,PhD,Business,4,2.7,87.2,1,4,6,1,59852,No,No,Yes,53,Bike,No,0,4,Good,5.0
+MAT0508,Female,19,Afghan,Kabul,Masters,Mathematics,2,3.01,66.3,1,3,8,1,15256,Yes,No,Yes,11,Walk,Yes,6,4,Good,2.0
+MAT0509,Female,19,Afghan,Kabul,PhD,Mathematics,2,3.0,65.3,9,1,4,1,33026,No,No,No,54,Bike,Yes,5,5,Average,1.0
+COM0510,Male,25,Bangladeshi,Dhaka,Undergraduate,Computer Science,1,2.64,81.6,8,10,4,2,58780,Yes,No,No,22,Car,No,4,3,Good,4.0
+MAT0511,Male,27,Afghan,Kabul,Undergraduate,Mathematics,1,3.41,78.9,7,1,6,4,22273,No,Yes,No,17,Bus,Yes,5,3,Poor,2.0
+PSY0512,Female,25,Indian,Punjab,Undergraduate,Psychology,4,2.84,81.4,2,8,7,1,16753,No,Yes,Yes,17,Bike,Yes,1,5,Average,2.0
+BIO0513,Male,20,Afghan,Kabul,Undergraduate,Biology,1,3.13,88.2,9,2,7,1,25328,Yes,No,Yes,10,Bike,No,1,1,Poor,1.0
+MAT0514,Male,21,Afghan,Kabul,Undergraduate,Mathematics,3,2.72,92.8,8,1,7,4,56655,No,Yes,No,35,Car,Yes,6,2,Poor,2.0
+BIO0515,Female,18,Afghan,Kabul,Masters,Biology,1,3.5,86.6,7,8,7,2,55996,No,No,No,12,Bike,Yes,6,3,Good,2.0
+ELE0516,Male,19,Pakistani,Punjab,PhD,Electrical Engineering,3,2.41,72.1,3,4,8,1,23626,No,Yes,No,56,Bus,No,0,5,Poor,3.0
+BIO0517,Female,19,Indian,Kerala,Undergraduate,Biology,2,3.92,70.3,8,2,7,2,16479,No,No,Yes,22,Bike,No,2,3,Good,2.0
+MAT0518,Male,22,Indian,Punjab,PhD,,2,3.63,79.1,9,10,4,2,46586,No,No,No,20,Walk,No,5,2,Poor,4.0
+ELE0519,Female,23,Indian,Kerala,Undergraduate,Electrical Engineering,4,2.32,95.7,6,3,5,3,23052,No,Yes,No,25,Bike,Yes,7,5,Average,3.0
+BIO0520,Female,18,Afghan,Herat,PhD,Biology,4,2.9,98.1,7,9,5,3,44019,No,Yes,No,13,Bike,Yes,7,4,Poor,2.0
+,Male,28,Indian,Punjab,Undergraduate,Mathematics,2,3.31,96.9,3,4,5,5,41881,Yes,No,Yes,43,Bike,Yes,4,4,Good,2.0
+ELE0522,Female,18,Bangladeshi,Dhaka,Undergraduate,Electrical Engineering,3,3.19,75.8,4,10,7,3,31190,Yes,No,No,24,Car,No,4,4,Poor,2.0
+ELE0523,Male,28,Bangladeshi,Chittagong,Undergraduate,Electrical Engineering,3,2.7,71.5,7,9,6,2,26435,Yes,No,No,48,Car,Yes,1,4,Average,3.0
+BUS0524,Female,18,Afghan,Kabul,PhD,Business,4,2.2,77.5,10,3,5,2,29078,No,Yes,Yes,14,Walk,Yes,1,2,Good,1.0
+MAT0525,Female,26,Indian,Kerala,Undergraduate,Mathematics,4,3.24,76.2,8,10,8,2,55739,Yes,Yes,No,58,Walk,Yes,4,2,Good,1.0
+,Female,23,Afghan,Herat,PhD,Biology,1,3.05,82.5,6,1,7,4,53966,No,No,No,14,Bus,No,4,3,Poor,3.0
+BUS0527,Male,21,Indian,,PhD,Business,3,2.63,75.4,7,6,5,3,28037,No,No,No,45,Walk,Yes,1,2,Poor,4.0
+ELE0528,Female,20,Bangladeshi,Dhaka,Masters,Electrical Engineering,3,3.26,66.7,2,1,7,1,30152,No,No,Yes,57,Bus,No,0,3,Poor,3.0
+COM0529,Male,18,Indian,Delhi,Masters,Computer Science,4,2.61,89.2,6,8,4,3,28030,Yes,No,No,42,Bus,Yes,5,3,Average,2.0
+ELE0530,Male,28,Indian,Punjab,PhD,Electrical Engineering,2,2.95,95.3,10,7,7,5,25373,No,Yes,No,21,Bus,Yes,5,5,Poor,4.0
+ELE0531,Male,20,Bangladeshi,Dhaka,PhD,Electrical Engineering,2,2.5,83.1,5,1,4,5,36512,Yes,No,No,16,Walk,Yes,6,3,Good,5.0
+BUS0532,Female,20,Afghan,Herat,Undergraduate,Business,1,3.22,77.9,5,1,5,5,18196,Yes,No,Yes,38,Bus,No,0,4,Average,1.0
+PSY0533,Male,23,Afghan,Herat,Masters,Psychology,4,2.68,79.0,5,10,8,3,38157,No,No,No,14,Walk,No,6,2,Good,4.0
+COM0534,Male,25,Afghan,Herat,PhD,,4,3.55,95.9,4,10,5,4,56882,No,Yes,No,9,Bike,No,1,2,Good,4.0
+MAT0535,Male,24,Afghan,Kabul,PhD,Mathematics,1,2.86,72.4,5,6,6,5,33601,No,No,Yes,25,Bike,No,3,1,Good,4.0
+BUS0536,Female,21,Indian,Delhi,Masters,Business,4,3.0,84.3,8,10,4,4,45308,Yes,Yes,No,25,Bus,No,4,1,Average,2.0
+MAT0537,Female,20,Pakistani,Sindh,Masters,Mathematics,1,3.07,81.8,9,6,4,3,15874,Yes,No,No,40,Bike,No,1,3,Good,3.0
+COM0538,Male,23,Bangladeshi,Dhaka,Undergraduate,Computer Science,1,3.6,93.9,7,4,7,1,35377,No,Yes,No,24,Bus,Yes,7,2,Poor,4.0
+ELE0539,Male,22,Bangladeshi,Dhaka,PhD,Electrical Engineering,1,2.91,79.0,8,10,5,2,40781,No,No,No,39,Bike,Yes,3,2,Good,1.0
+MAT0540,Male,24,Indian,Kerala,Masters,Mathematics,3,2.98,90.0,3,10,4,4,34734,Yes,No,No,8,Car,Yes,2,3,Good,5.0
+PSY0541,Female,18,Pakistani,Sindh,Masters,Psychology,4,3.74,84.9,3,3,8,3,16064,Yes,Yes,Yes,29,Bus,No,5,2,Good,5.0
+ELE0542,Male,28,Afghan,Herat,PhD,Electrical Engineering,1,3.61,96.0,7,1,5,4,56253,No,Yes,Yes,39,Walk,No,6,4,Average,3.0
+BIO0543,Female,18,Indian,Kerala,PhD,Biology,1,3.42,67.9,10,8,8,3,50843,Yes,No,No,52,Car,No,1,2,Poor,2.0
+PSY0544,Female,18,Bangladeshi,Dhaka,Masters,Psychology,3,2.7,89.4,3,9,7,2,26175,No,Yes,No,9,Bike,Yes,1,1,Poor,1.0
+BIO0545,Male,18,Indian,Kerala,PhD,Biology,1,3.58,84.0,6,3,8,4,58370,No,No,No,33,Bus,Yes,7,4,Average,3.0
+BUS0546,Female,25,Bangladeshi,Chittagong,PhD,Business,4,2.52,84.1,2,3,6,2,45357,No,No,Yes,19,Car,No,6,1,Good,5.0
+COM0547,Female,23,Afghan,Kabul,Undergraduate,,1,3.64,90.6,2,5,7,3,56175,Yes,Yes,Yes,23,Walk,Yes,2,1,Average,1.0
+PSY0548,Female,26,Bangladeshi,Dhaka,Undergraduate,Psychology,3,2.84,68.9,3,1,5,1,47722,No,No,No,10,Bus,No,1,3,Good,4.0
+ELE0549,Male,20,Indian,Delhi,Masters,Electrical Engineering,1,3.16,96.8,1,7,5,1,29963,Yes,Yes,Yes,40,Bike,No,6,4,Poor,1.0
+COM0550,Female,18,Indian,Kerala,Undergraduate,Computer Science,4,3.31,78.3,4,7,7,5,56305,Yes,Yes,Yes,42,Walk,No,4,2,Average,4.0
+BIO0551,Male,24,Bangladeshi,Dhaka,PhD,Biology,4,3.06,67.1,10,5,4,2,29340,No,Yes,No,25,Bike,Yes,1,3,Average,5.0
+BUS0552,Male,21,Pakistani,KPK,Undergraduate,Business,2,3.63,75.6,5,5,6,3,40276,Yes,No,Yes,43,Car,No,2,2,Poor,4.0
+COM0553,Male,28,Afghan,Herat,Masters,Computer Science,4,2.93,86.8,5,10,4,1,30355,No,Yes,Yes,28,Car,Yes,4,1,Good,2.0
+BUS0554,Female,21,Pakistani,Punjab,Masters,Business,1,3.04,94.9,1,3,4,1,16768,Yes,No,No,54,Bus,Yes,2,5,Good,5.0
+PSY0555,Male,25,Indian,Punjab,Masters,Psychology,3,3.35,78.8,9,1,5,2,49708,Yes,No,Yes,18,Bus,No,5,3,Average,2.0
+BIO0556,Female,27,Afghan,Kabul,Masters,Biology,2,3.05,88.3,4,8,4,5,33572,Yes,Yes,No,27,Bike,Yes,4,3,Poor,2.0
+PSY0557,Male,23,Bangladeshi,Dhaka,PhD,Psychology,2,3.44,67.4,10,7,4,2,53314,No,No,Yes,8,Bus,No,6,4,Good,1.0
+ELE0558,Male,21,Afghan,Kabul,Undergraduate,Electrical Engineering,3,3.15,71.3,6,10,6,2,57310,Yes,No,No,44,Bus,No,0,2,Good,5.0
+COM0559,Female,28,Bangladeshi,Chittagong,Masters,Computer Science,2,3.16,96.4,8,7,4,1,42916,No,Yes,No,9,Bus,Yes,3,5,Good,2.0
+COM0560,Male,20,Pakistani,Sindh,Undergraduate,Computer Science,1,3.65,70.3,8,9,4,4,48566,No,Yes,Yes,26,Car,No,1,2,Poor,1.0
+MAT0561,Female,21,Pakistani,KPK,Undergraduate,Mathematics,4,3.1,90.0,7,7,4,2,58033,No,No,No,28,Walk,No,2,5,Poor,1.0
+COM0562,Male,26,Indian,Delhi,Undergraduate,Computer Science,2,2.59,92.5,3,8,6,1,29602,Yes,Yes,No,41,Bus,No,1,1,Good,3.0
+BIO0563,Male,28,Indian,Kerala,Undergraduate,Biology,4,3.66,82.2,3,4,8,1,28613,Yes,,Yes,25,Walk,No,0,4,Good,5.0
+BUS0564,Female,21,Pakistani,KPK,PhD,Business,2,2.42,79.6,4,1,8,2,39367,No,Yes,Yes,55,Bike,Yes,6,3,Good,1.0
+BUS0565,Female,26,Pakistani,Punjab,PhD,Business,2,2.53,80.2,9,5,7,3,30948,No,No,No,19,Car,No,4,2,Average,3.0
+ELE0566,Female,26,Afghan,Herat,PhD,Electrical Engineering,4,3.08,80.1,8,10,8,4,35134,Yes,,Yes,28,Bike,No,0,1,Good,2.0
+BIO0567,Female,27,Afghan,Herat,Masters,Biology,2,3.19,86.1,6,4,5,4,29246,No,Yes,No,14,Car,Yes,0,5,Poor,4.0
+BUS0568,Male,27,Afghan,Herat,PhD,Business,1,2.8,93.0,6,6,7,1,33712,No,No,No,17,Bike,Yes,3,5,Average,4.0
+ELE0569,Female,26,Afghan,Herat,Masters,Electrical Engineering,1,2.97,97.3,3,6,7,2,25608,Yes,No,Yes,35,Car,Yes,2,2,Good,5.0
+BUS0570,Male,25,Bangladeshi,Chittagong,Masters,Business,1,3.05,66.3,8,2,7,2,30462,Yes,No,Yes,25,Car,Yes,7,3,Average,1.0
+ELE0571,Female,23,Afghan,Kabul,Masters,Electrical Engineering,1,3.13,68.5,5,7,7,3,51499,No,No,No,11,Bus,Yes,0,4,Average,4.0
+MAT0572,Male,21,Afghan,Herat,PhD,Mathematics,2,3.61,67.4,5,3,6,4,44699,Yes,No,No,19,Car,Yes,4,3,Average,4.0
+BIO0573,Male,18,Bangladeshi,Chittagong,PhD,Biology,4,2.83,87.0,10,10,8,3,56147,Yes,Yes,Yes,26,Bus,No,0,1,Poor,1.0
+COM0574,Female,25,Pakistani,KPK,Masters,Computer Science,2,2.94,79.4,4,10,6,1,43614,No,Yes,No,13,Bus,No,0,1,Poor,4.0
+MAT0575,Male,23,Pakistani,KPK,Undergraduate,Mathematics,1,2.44,89.9,8,4,7,4,20594,Yes,No,No,38,Bike,Yes,4,4,Poor,5.0
+MAT0576,Female,22,Afghan,Herat,Undergraduate,Mathematics,2,2.33,68.7,7,7,4,4,26667,No,No,No,33,Bike,Yes,6,5,Poor,5.0
+MAT0577,Female,27,Pakistani,KPK,Masters,Mathematics,1,2.81,69.3,8,8,6,4,57669,No,Yes,Yes,51,Car,Yes,5,2,Good,1.0
+PSY0578,Female,22,Pakistani,Sindh,PhD,Psychology,1,3.16,95.5,1,4,5,5,40090,No,,No,30,Bus,Yes,7,3,Poor,1.0
+BUS0579,Female,23,Bangladeshi,Chittagong,Undergraduate,Business,2,2.98,72.3,9,1,5,4,31446,No,Yes,No,59,Car,No,2,5,Average,2.0
+PSY0580,Female,22,Indian,Punjab,Undergraduate,Psychology,3,3.13,65.9,2,10,4,1,21856,Yes,No,Yes,44,Bike,Yes,2,4,Average,3.0
+MAT0581,Male,21,Indian,Punjab,Undergraduate,Mathematics,2,2.87,76.6,3,2,8,4,45122,Yes,Yes,Yes,59,ricksha,Yes,4,2,Average,3.0
+COM0582,Male,21,Afghan,Herat,PhD,Computer Science,2,2.71,82.2,4,8,8,3,22381,No,Yes,Yes,7,Car,Yes,7,2,Average,3.0
+PSY0583,Female,28,Afghan,Kabul,PhD,Psychology,1,2.71,97.6,5,7,8,3,40166,No,Yes,No,49,Bus,No,3,2,Poor,3.0
+MAT0584,Female,28,Afghan,Kabul,Masters,Mathematics,1,3.27,72.3,4,7,4,5,50826,No,No,No,37,Bike,Yes,7,1,Average,5.0
+ELE0585,Female,23,Afghan,Kabul,Undergraduate,,4,3.14,70.0,8,6,4,2,38272,Yes,No,No,15,Bus,No,6,5,Average,5.0
+MAT0586,Female,19,Bangladeshi,Dhaka,PhD,Mathematics,2,3.59,97.6,7,3,5,2,59862,No,No,Yes,51,Walk,Yes,7,4,Good,5.0
+COM0587,Male,26,Bangladeshi,Dhaka,Masters,Computer Science,4,3.25,92.0,3,8,4,3,29017,Yes,Yes,Yes,59,Car,No,6,2,Average,2.0
+PSY0588,Male,21,Pakistani,Punjab,Undergraduate,Psychology,2,3.48,81.4,10,3,7,3,37786,Yes,Yes,Yes,48,Bus,Yes,3,2,Good,2.0
+PSY0589,Male,25,Indian,Punjab,Undergraduate,Psychology,4,3.03,70.5,4,6,6,2,55068,Yes,No,Yes,24,Bike,Yes,1,1,Average,1.0
+MAT0590,Male,21,Afghan,Kabul,PhD,Mathematics,2,3.11,92.0,6,2,7,5,43349,Yes,No,Yes,58,Walk,Yes,4,5,Good,1.0
+COM0591,Female,23,Bangladeshi,Dhaka,Masters,Computer Science,3,3.32,76.5,1,2,7,2,17728,Yes,No,Yes,41,Bike,No,6,1,Good,1.0
+PSY0592,Male,22,Pakistani,Punjab,Undergraduate,Psychology,1,2.72,87.8,2,1,6,4,54411,Yes,No,Yes,5,Bus,Yes,6,4,Poor,
+MAT0593,Female,21,Bangladeshi,Dhaka,Masters,Mathematics,1,2.57,83.1,2,10,7,1,21948,Yes,Yes,No,47,Car,No,6,1,Average,2.0
+MAT0594,Male,23,Afghan,Kabul,PhD,Mathematics,1,3.32,77.8,7,9,5,5,37520,No,No,Yes,37,Bike,No,4,1,Poor,2.0
+BUS0595,Male,23,Bangladeshi,Dhaka,Undergraduate,Business,3,3.03,98.3,8,5,6,1,33478,No,No,No,31,Bike,No,0,1,Average,4.0
+COM0596,Female,28,Afghan,Kabul,PhD,Computer Science,2,3.17,98.7,3,7,6,5,41714,Yes,Yes,Yes,18,Bus,Yes,7,3,Good,3.0
+PSY0597,Female,28,Pakistani,Punjab,Masters,Psychology,4,2.26,68.5,4,7,5,3,37423,Yes,No,Yes,43,Car,No,2,3,Average,3.0
+BUS0598,Male,25,Bangladeshi,Dhaka,PhD,Business,3,3.09,91.0,4,6,7,2,24969,Yes,No,No,56,Walk,Yes,5,3,Good,5.0
+PSY0599,Female,22,Pakistani,KPK,Masters,Psychology,1,2.31,75.7,8,2,7,1,17095,Yes,No,Yes,57,Car,Yes,4,2,Poor,2.0
+MAT0600,Male,24,Pakistani,Sindh,Undergraduate,Mathematics,4,3.86,87.0,3,4,7,1,41093,Yes,No,Yes,52,Car,No,5,5,Good,4.0
+BIO0601,Male,27,Indian,Kerala,Masters,,1,3.27,95.8,10,8,5,1,20031,Yes,Yes,Yes,44,Walk,Yes,4,1,Good,3.0
+BUS0602,Female,19,Indian,Delhi,Masters,Business,3,2.86,88.5,8,3,8,2,32226,No,Yes,No,32,Walk,No,2,4,Good,2.0
+COM0603,Female,27,Pakistani,Punjab,Masters,Computer Science,2,2.75,97.4,9,9,8,5,20904,No,No,No,43,Car,Yes,3,2,Good,4.0
+ELE0604,Female,24,Pakistani,Balochistan,Masters,Electrical Engineering,4,3.6,68.1,6,2,7,5,25712,Yes,No,Yes,13,Walk,Yes,4,1,Good,1.0
+COM0605,Female,21,Pakistani,KPK,Undergraduate,Computer Science,4,3.39,75.2,4,8,7,1,26507,Yes,No,Yes,39,Bus,Yes,3,4,Average,4.0
+PSY0606,Male,18,Bangladeshi,Chittagong,Masters,Psychology,3,2.62,66.7,9,1,7,3,40053,Yes,Yes,No,21,Bus,No,3,1,Average,4.0
+PSY0607,Male,21,Afghan,Kabul,PhD,Psychology,2,2.72,74.8,3,6,7,5,27224,No,No,Yes,21,Bike,No,6,3,Poor,3.0
+COM0608,Female,26,Indian,Punjab,Undergraduate,Computer Science,1,2.62,79.1,5,9,7,1,39950,No,No,No,16,Walk,No,0,1,Average,2.0
+BUS0609,Female,23,Pakistani,KPK,Undergraduate,Business,2,3.14,94.3,9,8,8,4,48067,No,Yes,Yes,45,Bike,No,3,1,Average,4.0
+ELE0610,Female,19,Pakistani,Balochistan,PhD,Electrical Engineering,3,3.31,99.0,6,6,6,5,53067,Yes,No,Yes,42,Bike,Yes,6,3,Poor,3.0
+MAT0611,Male,26,Bangladeshi,Dhaka,Masters,Mathematics,2,2.98,85.0,9,9,5,2,36351,Yes,Yes,Yes,40,Walk,No,4,2,Poor,1.0
+PSY0612,Male,20,Indian,Punjab,PhD,Psychology,1,2.94,80.3,1,6,8,1,39612,No,No,Yes,29,Car,No,1,1,Poor,2.0
+BIO0613,Female,27,Afghan,Herat,Masters,Biology,1,2.33,82.3,8,3,6,5,20404,No,No,No,8,Walk,Yes,7,2,Average,4.0
+BIO0614,Male,21,Bangladeshi,Dhaka,PhD,Biology,1,3.04,69.4,7,7,8,3,55190,Yes,No,Yes,14,Walk,Yes,0,2,Average,5.0
+MAT0615,Female,19,Bangladeshi,Chittagong,PhD,Mathematics,1,2.96,95.4,7,8,7,1,29338,Yes,Yes,No,58,Walk,Yes,2,1,Average,5.0
+COM0616,Male,25,Bangladeshi,Chittagong,Undergraduate,Computer Science,2,2.79,70.5,8,1,6,4,57854,Yes,Yes,No,46,Bus,Yes,6,4,Average,3.0
+PSY0617,Female,20,Afghan,Herat,PhD,Psychology,1,3.11,67.6,7,7,6,3,57862,Yes,Yes,No,36,Car,Yes,4,4,Good,4.0
+PSY0618,Male,21,Afghan,Herat,PhD,Psychology,1,3.29,75.8,1,10,4,4,57512,Yes,Yes,Yes,18,Bike,Yes,7,1,Good,4.0
+MAT0619,Female,21,Pakistani,Punjab,Undergraduate,Mathematics,3,2.79,85.0,4,7,8,1,59922,Yes,Yes,No,27,Walk,No,4,5,Good,3.0
+PSY0620,Male,19,Bangladeshi,Dhaka,PhD,Psychology,3,3.09,88.0,10,6,4,4,30058,No,Yes,Yes,7,Bike,No,3,3,Poor,2.0
+BUS0621,Female,21,Indian,Punjab,Undergraduate,Business,1,3.0,94.4,3,4,6,5,41419,No,No,Yes,37,Car,Yes,3,1,Average,1.0
+BIO0622,Male,28,Afghan,Kabul,PhD,Biology,3,3.13,95.5,1,2,5,1,33275,No,No,No,57,Walk,No,7,1,Poor,1.0
+COM0623,Female,23,Pakistani,Punjab,Undergraduate,Computer Science,3,3.6,76.2,5,7,5,3,56579,Yes,No,No,25,Bike,Yes,7,3,Average,4.0
+BUS0624,Female,18,Bangladeshi,Dhaka,Masters,Business,4,2.61,93.6,1,10,8,5,23815,Yes,Yes,No,44,Walk,Yes,1,4,Good,1.0
+COM0625,Female,23,Bangladeshi,Chittagong,PhD,Computer Science,2,3.57,68.6,2,6,8,1,52248,No,Yes,No,31,Car,Yes,4,3,Good,2.0
+ELE0626,Female,20,Afghan,Herat,Undergraduate,Electrical Engineering,2,2.94,92.0,4,6,8,1,54979,Yes,Yes,Yes,50,Walk,No,5,3,Poor,2.0
+BIO0627,Male,28,Pakistani,Balochistan,Masters,Biology,2,2.68,83.7,9,9,6,3,53051,No,No,No,5,Bike,Yes,6,3,Good,5.0
+BIO0628,Female,18,Pakistani,Balochistan,Undergraduate,Biology,3,3.22,86.5,1,8,5,4,52070,No,Yes,Yes,43,Walk,No,7,3,Good,4.0
+PSY0629,Male,21,Pakistani,Punjab,PhD,Psychology,4,2.91,88.2,6,9,5,2,48708,Yes,No,No,42,Car,Yes,3,3,Good,3.0
+BIO0630,Female,18,Afghan,Herat,Undergraduate,Biology,2,2.46,86.2,7,3,8,5,24208,No,No,No,6,Walk,Yes,1,2,Good,2.0
+BIO0631,Male,24,Afghan,Herat,Masters,Biology,1,3.17,96.0,1,5,4,3,21565,Yes,No,No,27,Bus,Yes,0,3,Poor,2.0
+BIO0632,Female,24,Pakistani,Sindh,Undergraduate,Biology,3,2.82,82.6,7,7,8,2,37661,No,No,Yes,58,Bus,No,5,4,Poor,2.0
+BIO0633,Male,25,Bangladeshi,Chittagong,Undergraduate,Biology,2,3.45,74.3,5,4,5,3,20427,Yes,Yes,No,24,Walk,No,2,5,Average,1.0
+BIO0634,Female,18,Indian,Punjab,PhD,Biology,4,3.76,95.9,7,2,4,2,57069,No,No,Yes,8,Walk,Yes,3,3,Average,5.0
+MAT0635,Male,20,Afghan,Herat,PhD,Mathematics,4,2.5,79.7,7,7,8,5,58716,Yes,Yes,No,14,Walk,Yes,4,5,Poor,3.0
+PSY0636,Female,28,Pakistani,Balochistan,PhD,Psychology,2,3.15,72.3,1,8,5,2,23460,No,Yes,No,58,Car,Yes,3,1,Poor,5.0
+BIO0637,Male,23,Indian,Punjab,Masters,Biology,2,2.97,89.8,7,4,7,5,46344,Yes,No,Yes,7,Walk,Yes,1,4,Good,4.0
+PSY0638,Female,24,Pakistani,Sindh,Undergraduate,Psychology,4,3.06,95.0,1,2,7,3,28365,No,Yes,Yes,35,Bike,No,7,2,Poor,2.0
+MAT0639,Female,28,Indian,Delhi,PhD,Mathematics,4,2.87,93.5,9,10,4,4,17944,Yes,Yes,No,52,Bus,No,2,4,Poor,4.0
+MAT0640,Female,23,Afghan,Kabul,PhD,Mathematics,4,2.8,79.3,8,4,5,2,29254,No,No,Yes,25,Bike,Yes,6,3,Poor,4.0
+COM0641,Female,22,Indian,Delhi,Masters,Computer Science,3,2.56,75.4,8,9,8,2,53835,Yes,Yes,Yes,45,Bike,Yes,5,2,Good,5.0
+ELE0642,Male,25,Indian,Kerala,Undergraduate,Electrical Engineering,1,3.07,81.3,6,6,5,4,22741,No,No,Yes,14,Bus,Yes,1,2,Average,
+,Male,23,Pakistani,Sindh,PhD,Mathematics,2,3.69,70.0,3,1,4,5,41068,Yes,No,No,14,Walk,Yes,6,1,Good,5.0
+BUS0644,Male,25,Pakistani,Balochistan,Undergraduate,Business,2,3.04,68.0,10,1,4,5,57769,No,No,No,10,Walk,Yes,3,5,Poor,2.0
+MAT0645,Male,21,Pakistani,Punjab,Undergraduate,Mathematics,2,2.5,94.0,4,8,6,1,45134,Yes,No,No,26,Bike,No,3,3,Poor,4.0
+BUS0646,Female,20,Indian,Punjab,Masters,Business,4,2.94,98.0,9,9,8,4,15047,Yes,Yes,No,16,Bike,Yes,5,4,Good,1.0
+BUS0647,Female,22,Bangladeshi,Chittagong,Masters,,3,2.89,88.6,5,9,8,4,31554,No,No,No,9,Bus,No,7,1,Average,2.0
+MAT0648,Female,21,Afghan,Kabul,Masters,Mathematics,3,2.06,73.3,10,3,7,4,57368,No,Yes,Yes,33,Walk,No,0,2,Good,5.0
+PSY0649,Male,25,Bangladeshi,Dhaka,PhD,Psychology,2,3.76,77.8,5,5,5,1,56727,Yes,Yes,No,52,Bus,No,4,5,Good,5.0
+BIO0650,Male,19,Indian,Delhi,Undergraduate,Biology,1,2.43,97.3,6,2,5,5,37160,No,No,No,32,Car,No,6,2,Poor,1.0
+PSY0651,Male,21,Indian,Kerala,PhD,Psychology,4,2.64,95.9,7,8,8,2,23029,No,No,Yes,,Car,Yes,5,2,Good,4.0
+MAT0652,Female,19,Afghan,Herat,Masters,Mathematics,3,3.27,90.0,10,1,8,3,49677,No,Yes,No,18,Walk,No,6,4,Average,3.0
+ELE0653,Female,21,Bangladeshi,Dhaka,Undergraduate,Electrical Engineering,3,3.17,71.8,2,8,7,5,20391,Yes,,Yes,15,Car,Yes,1,5,Good,3.0
+COM0654,Female,18,Pakistani,KPK,Undergraduate,Computer Science,4,3.16,69.4,8,7,7,5,33550,Yes,Yes,No,,Car,Yes,3,3,Good,4.0
+COM0655,Female,24,Bangladeshi,,Undergraduate,Computer Science,3,3.68,79.6,6,6,4,4,45543,Yes,No,No,11,Bike,No,5,5,Poor,1.0
+PSY0656,Male,25,Pakistani,Balochistan,Masters,Psychology,1,3.68,65.2,4,3,7,3,32719,No,No,No,47,Car,Yes,4,4,Poor,5.0
+MAT0657,Male,26,Afghan,Herat,PhD,Mathematics,4,3.62,70.9,7,10,4,3,42442,Yes,No,Yes,36,Bike,Yes,6,5,Average,2.0
+COM0658,Male,28,Afghan,Herat,Masters,Computer Science,2,3.39,75.9,7,8,6,1,58442,Yes,No,Yes,27,Walk,No,3,3,Good,1.0
+BIO0659,Male,20,Bangladeshi,Dhaka,PhD,Biology,2,3.61,91.8,5,5,7,3,35152,No,Yes,Yes,8,Bike,No,0,4,Poor,1.0
+BUS0660,Female,18,Afghan,Herat,Masters,Business,3,2.09,80.4,6,6,6,3,32658,No,Yes,Yes,43,Car,Yes,6,1,Average,3.0
+COM0661,Female,22,Indian,Kerala,PhD,Computer Science,3,3.08,76.8,2,1,4,4,30390,No,No,No,5,Walk,Yes,6,1,Average,5.0
+PSY0662,Female,23,Pakistani,Balochistan,Masters,Psychology,1,1.96,88.6,1,7,7,4,33672,Yes,Yes,Yes,53,Bike,Yes,0,4,Good,1.0
+BIO0663,Female,27,Pakistani,Balochistan,Undergraduate,Biology,1,3.12,95.2,1,3,8,1,54836,Yes,Yes,No,43,Bike,No,5,2,Poor,1.0
+MAT0664,Female,26,Bangladeshi,,Undergraduate,Mathematics,1,3.01,90.1,1,8,5,4,29094,Yes,No,No,31,Bike,No,7,1,Average,5.0
+ELE0665,Female,22,Indian,,Undergraduate,Electrical Engineering,2,2.95,86.9,4,8,6,5,32208,Yes,No,No,41,Bus,Yes,7,1,Average,4.0
+ELE0666,Female,28,Afghan,Kabul,Undergraduate,Electrical Engineering,2,3.61,96.0,2,7,6,3,54303,No,Yes,No,24,Bike,Yes,3,5,Average,1.0
+COM0667,Male,20,Afghan,Herat,Undergraduate,Computer Science,1,3.04,88.2,2,2,6,3,58990,No,No,Yes,11,Walk,No,7,4,Good,2.0
+BUS0668,Female,20,Bangladeshi,Chittagong,Undergraduate,Business,1,2.59,93.6,8,7,6,4,29400,Yes,Yes,Yes,54,Car,No,2,4,Poor,3.0
+BIO0669,Female,19,Bangladeshi,Chittagong,Masters,Biology,2,2.69,66.0,6,5,7,4,42664,Yes,No,Yes,,Car,Yes,4,3,Good,
+MAT0670,Female,24,Afghan,Herat,Undergraduate,Mathematics,1,1.97,87.5,9,4,6,4,50888,Yes,Yes,Yes,55,Walk,Yes,7,5,Good,3.0
+BUS0671,Female,22,Bangladeshi,Chittagong,PhD,Business,4,3.21,75.1,5,10,6,2,39314,No,Yes,No,31,Car,No,3,3,Poor,5.0
+COM0672,Male,22,Bangladeshi,Chittagong,Masters,Computer Science,1,3.78,75.6,10,4,7,2,34124,Yes,No,No,15,Bus,Yes,3,3,Good,1.0
+COM0673,Female,28,Pakistani,KPK,Undergraduate,Computer Science,4,3.59,96.0,10,9,5,4,30127,Yes,Yes,No,32,Car,Yes,3,5,Poor,1.0
+BUS0674,Male,24,Bangladeshi,Dhaka,Masters,Business,2,3.34,83.2,8,5,4,2,30153,No,Yes,No,55,Bus,No,0,2,Average,5.0
+ELE0675,Female,18,Afghan,Kabul,Masters,Electrical Engineering,3,3.66,92.5,10,10,4,5,51188,Yes,No,Yes,5,Bike,No,3,4,Average,2.0
+BIO0676,Male,20,Indian,Punjab,Masters,Biology,1,3.76,65.1,2,10,7,4,44677,No,No,Yes,30,Bus,Yes,0,3,Good,3.0
+BUS0677,Female,20,Bangladeshi,Dhaka,Masters,Business,2,4.05,79.2,5,2,5,4,41877,Yes,No,Yes,49,Walk,No,1,4,Poor,5.0
+ELE0678,Female,25,Pakistani,Balochistan,Undergraduate,Electrical Engineering,3,2.75,82.3,2,8,5,5,56231,Yes,Yes,No,40,Bus,Yes,1,3,Good,3.0
+MAT0679,Female,21,Bangladeshi,Dhaka,Undergraduate,Mathematics,4,2.57,87.6,3,4,7,4,37162,No,No,No,19,Car,Yes,3,5,,2.0
+BUS0680,Female,26,Pakistani,Sindh,PhD,Business,2,3.07,77.7,3,9,5,3,39054,No,Yes,No,43,Walk,Yes,5,2,Good,4.0
+MAT0681,Male,25,Pakistani,Sindh,PhD,Mathematics,2,3.13,84.7,3,2,4,3,27806,No,No,No,39,Walk,Yes,3,2,Good,2.0
+MAT0682,Male,23,Indian,Punjab,Undergraduate,Mathematics,3,2.83,96.1,7,5,5,4,50236,Yes,Yes,No,10,Bike,No,4,4,Good,1.0
+ELE0683,Male,26,Bangladeshi,Chittagong,PhD,Electrical Engineering,1,3.46,81.4,10,3,4,1,22720,Yes,No,Yes,,Bike,Yes,4,1,Poor,1.0
+BUS0684,Female,25,Afghan,Kabul,PhD,Business,1,2.53,67.7,3,10,8,1,58373,Yes,Yes,No,48,Walk,No,7,1,Good,3.0
+PSY0685,Female,24,Indian,Delhi,PhD,Psychology,2,3.28,88.0,10,1,5,5,58430,No,Yes,Yes,31,Bus,No,3,3,Poor,1.0
+MAT0686,Female,18,Pakistani,Balochistan,Undergraduate,Mathematics,2,3.1,87.5,10,9,4,4,28911,Yes,No,No,,Car,No,4,3,Poor,1.0
+PSY0687,Male,26,Pakistani,KPK,PhD,Psychology,2,3.33,71.9,1,5,4,5,31993,No,Yes,Yes,32,Bus,No,3,3,Average,3.0
+BUS0688,Male,25,Afghan,Kabul,Masters,Business,3,4.08,73.3,2,9,8,4,59306,Yes,No,No,36,Walk,Yes,6,4,Good,5.0
+PSY0689,Female,26,Afghan,Kabul,Masters,Psychology,3,1.77,68.4,6,9,8,1,17779,No,Yes,Yes,58,Bus,Yes,4,2,Good,1.0
+BIO0690,Female,22,Bangladeshi,Chittagong,Masters,Biology,4,3.13,73.0,5,8,5,3,16841,No,No,Yes,37,Walk,No,3,3,Average,2.0
+BUS0691,Male,27,Pakistani,Sindh,Masters,Business,3,3.1,84.4,6,9,6,3,59487,No,No,No,6,Car,No,6,4,Average,3.0
+MAT0692,Female,20,Pakistani,Balochistan,Masters,Mathematics,2,3.06,72.6,4,2,8,3,33217,Yes,No,No,51,Bus,No,5,2,Average,5.0
+MAT0693,Male,18,Bangladeshi,Dhaka,Undergraduate,Mathematics,3,3.57,96.7,6,5,7,4,24325,Yes,No,Yes,49,Walk,No,5,1,Good,1.0
+BIO0694,Female,18,Afghan,Herat,PhD,Biology,1,2.87,73.8,7,10,8,5,26635,No,Yes,No,56,Car,No,4,5,Poor,4.0
+COM0695,Male,21,Pakistani,Punjab,PhD,Computer Science,3,3.29,90.5,7,4,5,2,18445,No,,No,35,Car,Yes,4,3,Good,5.0
+BUS0696,Male,25,Indian,Delhi,Masters,Business,1,3.76,81.9,4,10,4,4,15248,Yes,,No,14,Walk,No,5,2,Good,
+MAT0697,Male,21,Afghan,Kabul,Undergraduate,Mathematics,2,3.8,82.5,6,4,5,5,37792,Yes,No,Yes,7,Car,Yes,2,2,Good,5.0
+PSY0698,Male,22,Pakistani,Balochistan,Masters,Psychology,2,3.0,69.7,4,1,4,4,21091,Yes,No,Yes,51,Bike,Yes,4,1,Good,2.0
+BUS0699,Female,22,Bangladeshi,Chittagong,Undergraduate,Business,2,3.34,80.2,5,6,4,3,57677,Yes,No,No,43,Bus,Yes,7,2,Average,4.0
+COM0700,Male,22,Afghan,Kabul,PhD,Computer Science,3,3.46,92.1,10,2,6,3,29466,No,Yes,No,28,Walk,No,5,4,Poor,2.0
+PSY0701,Female,26,Pakistani,Sindh,Undergraduate,Psychology,2,2.68,65.1,7,9,5,5,18172,Yes,Yes,Yes,24,Car,Yes,7,5,Good,5.0
+ELE0702,Female,20,Bangladeshi,,Masters,Electrical Engineering,1,3.56,71.8,6,6,7,4,23275,Yes,No,No,11,Bike,No,2,4,Average,1.0
+MAT0703,Female,22,Pakistani,Punjab,Undergraduate,Mathematics,2,2.88,81.3,9,7,4,1,36987,No,No,Yes,41,Bus,No,0,3,Poor,5.0
+MAT0704,Male,20,Bangladeshi,Dhaka,Undergraduate,Mathematics,3,2.77,86.1,5,9,6,3,40634,Yes,No,Yes,29,Bus,No,3,3,Poor,5.0
+PSY0705,Female,26,Indian,Delhi,Masters,Psychology,3,3.4,75.6,3,9,4,3,32563,No,No,No,43,Bus,Yes,1,5,Average,4.0
+COM0706,Male,23,Indian,Punjab,PhD,Computer Science,4,2.75,66.4,8,6,8,3,56639,Yes,No,No,36,Car,No,1,4,Average,4.0
+COM0707,Female,24,Indian,Punjab,Masters,Computer Science,4,2.41,65.1,5,10,5,3,23831,Yes,Yes,Yes,50,Car,Yes,1,2,Poor,3.0
+BIO0708,Female,27,Bangladeshi,Dhaka,PhD,Biology,4,3.51,76.7,8,8,4,3,58485,Yes,Yes,Yes,15,Walk,Yes,5,2,Good,4.0
+MAT0709,Male,24,Bangladeshi,Dhaka,Masters,Mathematics,1,2.63,72.0,8,6,4,5,36741,No,No,No,46,Bike,No,2,5,Good,2.0
+PSY0710,Male,24,Afghan,Herat,Undergraduate,Psychology,2,2.92,98.3,9,8,6,1,49817,Yes,No,No,37,Car,Yes,5,3,Average,1.0
+MAT0711,Female,27,Bangladeshi,Chittagong,Masters,Mathematics,4,3.07,78.6,1,3,6,5,56291,No,No,No,44,Car,Yes,4,4,Poor,1.0
+MAT0712,Female,25,Pakistani,Punjab,Masters,Mathematics,2,3.34,67.7,7,9,7,3,36115,Yes,Yes,Yes,32,Bus,No,2,1,Poor,2.0
+COM0713,Male,24,Bangladeshi,Dhaka,PhD,Computer Science,4,3.33,94.3,9,2,5,3,50932,No,Yes,No,6,Walk,Yes,2,1,Poor,2.0
+MAT0714,Male,23,Indian,Kerala,PhD,Mathematics,2,2.71,66.2,5,8,7,2,54088,No,Yes,Yes,19,Walk,Yes,4,5,Poor,1.0
+PSY0715,Male,27,Afghan,Herat,Undergraduate,Psychology,4,3.26,83.1,2,2,6,3,56419,No,No,No,49,Bus,No,1,2,Poor,3.0
+BIO0716,Female,24,Bangladeshi,Chittagong,Masters,Biology,3,2.82,65.4,7,10,5,1,34962,No,No,Yes,9,Walk,Yes,1,2,Poor,2.0
+,Male,27,Bangladeshi,,PhD,Mathematics,3,2.62,90.5,2,4,5,2,39358,No,Yes,No,48,Bus,No,2,1,Good,1.0
+BUS0718,Male,28,Pakistani,Balochistan,Masters,Business,3,3.67,95.7,9,7,7,2,39699,Yes,Yes,No,58,Walk,No,1,1,Good,4.0
+MAT0719,Female,22,Bangladeshi,Dhaka,Undergraduate,Mathematics,4,2.93,87.0,8,2,8,5,51340,No,Yes,No,33,Walk,Yes,5,1,Good,5.0
+BUS0720,Male,19,Pakistani,Balochistan,PhD,Business,1,3.57,85.0,2,3,5,2,18478,Yes,Yes,Yes,27,Bike,No,6,2,Poor,4.0
+BIO0721,Male,27,Afghan,Kabul,PhD,Biology,4,2.5,65.4,9,7,5,5,26866,Yes,No,Yes,16,Car,No,7,2,Poor,2.0
+BUS0722,Male,22,Bangladeshi,Dhaka,PhD,Business,3,3.32,83.7,3,10,8,4,49454,Yes,Yes,No,31,Bus,No,0,2,Good,5.0
+ELE0723,Male,23,Afghan,Kabul,Undergraduate,Electrical Engineering,3,2.32,81.0,8,5,5,1,45229,Yes,No,Yes,32,Bus,No,4,3,Average,5.0
+PSY0724,Female,23,Pakistani,Sindh,PhD,Psychology,2,2.9,93.5,10,6,6,3,38119,Yes,Yes,Yes,40,Bike,Yes,2,4,Good,3.0
+ELE0725,Female,28,Bangladeshi,Chittagong,Masters,Electrical Engineering,4,3.52,84.5,9,3,8,4,48958,No,Yes,No,58,Bus,No,6,2,Good,3.0
+COM0726,Male,19,Bangladeshi,Dhaka,Undergraduate,Computer Science,1,2.52,94.9,3,4,4,2,29876,No,No,Yes,55,Car,Yes,4,3,Poor,5.0
+MAT0727,Male,18,Pakistani,Sindh,Masters,Mathematics,4,3.49,79.7,7,5,8,2,24136,Yes,No,Yes,29,Walk,Yes,3,3,Good,3.0
+ELE0728,Female,22,Afghan,Kabul,Masters,Electrical Engineering,2,3.34,93.3,5,5,5,4,51475,No,Yes,Yes,22,Bus,Yes,2,1,Average,5.0
+BIO0729,Female,21,Bangladeshi,Dhaka,Masters,Biology,4,2.93,84.7,10,9,8,3,53679,No,Yes,Yes,57,Bike,Yes,3,2,Average,5.0
+MAT0730,Female,18,Indian,Punjab,Masters,Mathematics,2,3.2,65.8,1,9,5,2,43664,Yes,Yes,Yes,58,Walk,No,7,4,Good,4.0
+MAT0731,Male,27,Pakistani,Sindh,PhD,Mathematics,1,3.48,67.1,2,7,8,2,39294,Yes,Yes,No,49,Car,No,5,2,Poor,2.0
+PSY0732,Male,18,Bangladeshi,Chittagong,Undergraduate,Psychology,4,3.24,86.3,7,7,7,4,30381,No,No,Yes,33,Bus,No,2,3,Average,2.0
+COM0733,Male,24,Indian,Punjab,Undergraduate,Computer Science,4,2.92,95.2,6,8,4,1,46525,No,No,Yes,42,Walk,No,7,2,Good,2.0
+MAT0734,Male,25,Bangladeshi,Dhaka,PhD,Mathematics,4,2.96,75.3,6,5,5,5,27043,No,No,No,10,Walk,No,1,3,Poor,4.0
+BUS0735,Male,23,Pakistani,Balochistan,Masters,Business,2,2.04,83.2,1,2,4,1,33052,No,Yes,No,42,Walk,Yes,1,2,Poor,4.0
+BUS0736,Female,21,Afghan,Herat,Undergraduate,Business,3,2.98,76.7,9,8,6,3,51642,No,No,No,48,Walk,No,0,2,Poor,1.0
+BUS0737,Female,25,Afghan,Herat,Masters,Business,3,3.01,65.1,3,4,6,2,24052,No,Yes,No,59,Walk,Yes,6,4,Average,4.0
+COM0738,Male,28,Afghan,Kabul,Masters,Computer Science,4,3.07,86.6,8,2,5,4,41595,No,No,Yes,27,Car,No,5,1,Average,2.0
+BUS0739,Male,19,Afghan,Herat,Masters,Business,1,3.37,66.3,4,5,5,4,46991,No,No,Yes,31,Bike,No,3,1,,5.0
+PSY0740,Female,18,Indian,Punjab,Masters,Psychology,2,3.24,73.1,3,5,6,2,46488,Yes,Yes,Yes,21,Car,Yes,6,4,Good,3.0
+PSY0741,Male,22,Pakistani,KPK,Undergraduate,Psychology,3,2.31,70.8,7,5,7,5,21529,No,No,Yes,55,Bus,Yes,5,5,Average,5.0
+BIO0742,Male,27,Indian,Kerala,Masters,Biology,3,3.08,82.2,4,5,7,4,27156,No,No,Yes,15,Bus,Yes,7,2,Average,2.0
+BUS0743,Female,19,Pakistani,Punjab,Undergraduate,Business,1,2.7,75.5,5,4,4,5,48544,No,No,No,51,Car,No,6,4,Good,5.0
+PSY0744,Male,26,Bangladeshi,Chittagong,PhD,Psychology,3,3.55,85.3,6,6,7,5,33602,Yes,No,No,27,Walk,Yes,3,3,Average,2.0
+COM0745,Male,27,Indian,Punjab,Masters,Computer Science,3,3.34,92.9,1,3,6,2,56243,Yes,No,No,23,Walk,Yes,1,3,Poor,4.0
+PSY0746,Female,21,Indian,Delhi,Undergraduate,Psychology,2,3.52,91.1,8,1,7,2,49927,No,No,Yes,54,Bus,Yes,2,4,Good,2.0
+BUS0747,Female,23,Pakistani,Balochistan,Masters,Business,1,3.37,77.1,2,1,8,3,22935,Yes,No,Yes,58,Bike,Yes,5,1,Poor,2.0
+BIO0748,Male,18,Pakistani,Balochistan,Undergraduate,Biology,2,2.42,98.6,9,10,7,2,17019,Yes,No,Yes,43,Car,No,3,5,Poor,4.0
+COM0749,Female,23,Afghan,Kabul,Masters,Computer Science,4,2.79,68.6,4,4,8,2,25307,No,No,No,43,Car,Yes,2,2,Average,3.0
+MAT0750,Male,22,Pakistani,Balochistan,Masters,Mathematics,4,2.34,84.7,8,8,7,4,42898,No,No,Yes,29,Bus,No,5,5,Poor,5.0
+MAT0751,Female,20,Indian,Punjab,Masters,Mathematics,1,2.7,92.7,1,10,5,4,27329,Yes,Yes,Yes,48,Bus,No,1,1,Poor,3.0
+BIO0752,Male,24,Bangladeshi,Chittagong,Undergraduate,Biology,1,2.67,84.6,2,1,6,5,34142,Yes,No,Yes,45,Bike,Yes,6,2,Poor,4.0
+PSY0753,Female,22,Indian,Punjab,Undergraduate,Psychology,3,2.92,84.1,9,10,8,3,43567,Yes,No,No,23,Car,Yes,7,1,Poor,1.0
+MAT0754,Female,23,Indian,Punjab,Undergraduate,,4,3.57,73.7,8,8,8,1,30841,Yes,Yes,Yes,15,Car,Yes,0,5,Good,1.0
+ELE0755,Male,18,Bangladeshi,Chittagong,Undergraduate,Electrical Engineering,3,2.55,93.1,9,10,7,3,55763,Yes,No,Yes,8,Car,Yes,3,4,Average,1.0
+MAT0756,Female,26,Afghan,Kabul,PhD,Mathematics,1,3.68,74.4,7,6,5,5,29765,No,Yes,Yes,38,Bike,Yes,1,2,Good,4.0
+BUS0757,Female,24,Bangladeshi,Dhaka,Undergraduate,Business,3,2.87,96.9,3,10,4,3,22268,No,Yes,Yes,5,Bus,Yes,1,4,Good,4.0
+BUS0758,Male,23,Bangladeshi,Chittagong,PhD,Business,1,3.02,72.9,5,5,8,3,43518,Yes,Yes,Yes,29,Car,No,1,3,Good,5.0
+BIO0759,Female,25,Afghan,Kabul,Undergraduate,Biology,1,2.59,73.4,3,7,8,1,54117,Yes,No,Yes,48,Bus,No,6,5,Good,1.0
+MAT0760,Female,20,Indian,Kerala,PhD,Mathematics,2,3.02,75.7,7,6,8,4,43076,No,No,Yes,,Walk,Yes,0,1,Poor,4.0
+PSY0761,Male,20,Indian,Punjab,PhD,Psychology,1,3.89,71.5,8,7,6,2,22780,Yes,No,No,53,Car,No,1,1,Good,5.0
+PSY0762,Male,19,Pakistani,KPK,Undergraduate,Psychology,1,2.66,97.5,4,10,4,3,58966,Yes,Yes,Yes,24,Bus,Yes,4,3,Average,2.0
+BIO0763,Male,22,Bangladeshi,Dhaka,PhD,Biology,1,3.01,95.8,1,3,7,1,22285,No,Yes,Yes,7,Car,Yes,1,4,Average,2.0
+PSY0764,Female,22,Pakistani,Punjab,Undergraduate,Psychology,3,3.42,71.6,8,2,7,5,57480,Yes,Yes,Yes,48,Bus,Yes,4,2,Poor,4.0
+COM0765,Male,26,Afghan,Herat,PhD,Computer Science,1,3.15,83.8,3,6,6,2,28846,Yes,Yes,No,35,Car,Yes,4,4,Good,3.0
+COM0766,Male,18,Afghan,Kabul,PhD,Computer Science,1,2.94,69.0,7,2,8,5,29056,Yes,Yes,No,54,Car,Yes,6,4,Average,3.0
+COM0767,Male,23,Indian,Punjab,Masters,Computer Science,2,3.29,97.1,8,6,5,1,55095,No,No,No,50,Car,No,0,3,Good,2.0
+BIO0768,Male,27,Bangladeshi,Dhaka,PhD,Biology,2,3.22,69.4,1,8,5,5,47402,No,Yes,Yes,51,Bus,No,7,5,Good,4.0
+BIO0769,Male,24,Afghan,Herat,PhD,,3,2.22,95.3,5,3,8,1,29371,Yes,No,Yes,,Bus,No,7,2,Poor,4.0
+MAT0770,Female,22,Indian,,Undergraduate,Mathematics,2,2.98,79.1,5,7,7,1,57682,Yes,No,No,13,Bike,No,7,3,Average,3.0
+BUS0771,Male,21,Pakistani,Balochistan,Masters,Business,1,3.03,98.6,8,8,6,1,18689,No,Yes,Yes,52,Walk,No,7,5,Good,2.0
+BIO0772,Female,23,Indian,Kerala,Masters,Biology,4,2.87,82.9,3,9,6,3,45393,No,Yes,Yes,13,Car,Yes,3,5,Poor,1.0
+ELE0773,Female,28,Pakistani,KPK,PhD,Electrical Engineering,4,3.91,74.3,1,5,8,4,38689,No,No,Yes,10,Car,No,7,2,Good,5.0
+ELE0774,Male,19,Afghan,Herat,Undergraduate,Electrical Engineering,4,2.94,90.4,1,8,6,1,16020,Yes,Yes,No,25,Bike,No,3,3,Average,1.0
+PSY0775,Female,27,Afghan,Kabul,PhD,Psychology,2,3.1,89.5,7,4,6,3,16792,Yes,Yes,Yes,40,Car,Yes,2,1,Good,5.0
+ELE0776,Female,22,Afghan,Herat,Masters,Electrical Engineering,4,3.22,66.5,10,9,7,1,35258,Yes,Yes,Yes,7,Bike,No,3,2,Good,2.0
+COM0777,Female,19,Afghan,Kabul,Undergraduate,,1,3.31,70.8,5,4,7,5,17909,Yes,Yes,Yes,57,Bus,Yes,4,2,Average,5.0
+COM0778,Male,21,Afghan,Kabul,Undergraduate,Computer Science,2,3.83,87.8,1,3,6,5,38655,Yes,No,Yes,5,Bus,No,7,2,Poor,1.0
+MAT0779,Male,26,Pakistani,Balochistan,Masters,Mathematics,1,3.27,86.9,5,4,5,2,51552,No,Yes,Yes,42,Walk,No,2,2,Average,1.0
+BIO0780,Female,21,Afghan,Herat,Masters,Biology,4,3.3,78.9,6,3,5,4,44795,No,Yes,No,17,Bike,Yes,1,5,Poor,5.0
+COM0781,Male,23,Indian,Delhi,Undergraduate,Computer Science,2,2.65,97.8,6,9,7,2,31926,Yes,No,Yes,50,Bus,Yes,3,5,Average,3.0
+BUS0782,Female,23,Pakistani,Sindh,Undergraduate,Business,3,2.99,67.4,3,2,7,3,37443,No,No,Yes,28,Bike,No,6,4,Good,2.0
+BUS0783,Female,26,Bangladeshi,Dhaka,PhD,Business,1,3.19,84.2,2,4,5,5,53923,No,No,Yes,57,Walk,No,7,5,Average,1.0
+BIO0784,Female,20,Afghan,Kabul,Undergraduate,Biology,1,3.24,81.3,1,8,6,2,59936,Yes,No,No,12,Bike,No,1,1,Good,4.0
+COM0785,Male,21,Afghan,Herat,PhD,,2,3.13,87.5,10,6,8,2,16485,Yes,No,Yes,17,Bus,Yes,5,1,Poor,3.0
+COM0786,Male,28,Bangladeshi,Dhaka,PhD,Computer Science,4,3.22,68.0,7,9,7,1,44970,No,Yes,Yes,18,Bus,Yes,2,2,Average,1.0
+ELE0787,Female,27,Bangladeshi,Dhaka,PhD,Electrical Engineering,4,3.26,89.1,1,1,8,2,44032,Yes,No,No,22,Bus,Yes,6,4,Average,4.0
+BIO0788,Female,22,Indian,Punjab,PhD,Biology,2,2.23,82.6,10,1,4,2,23917,Yes,Yes,No,27,Bus,No,6,1,Good,3.0
+COM0789,Male,25,Bangladeshi,Chittagong,PhD,Computer Science,1,3.18,71.7,8,5,7,5,55307,Yes,No,No,58,Bus,No,4,5,Average,2.0
+COM0790,Male,26,Bangladeshi,Chittagong,Masters,Computer Science,1,3.24,91.1,6,5,6,4,21747,Yes,No,Yes,44,Bus,No,3,2,Good,5.0
+COM0791,Female,18,Pakistani,Punjab,Undergraduate,Computer Science,2,3.14,87.3,4,8,7,5,33400,Yes,Yes,No,43,Bike,No,4,3,Good,2.0
+BUS0792,Male,18,Indian,Delhi,Masters,Business,1,2.83,72.6,5,3,8,5,24832,Yes,Yes,No,15,Walk,No,3,3,Good,3.0
+ELE0793,Female,20,Bangladeshi,Dhaka,PhD,Electrical Engineering,3,2.94,79.4,7,5,5,4,33034,No,Yes,No,40,Bus,Yes,4,2,Average,
+,Female,20,Bangladeshi,Chittagong,Masters,Biology,3,3.12,89.7,7,6,6,3,30816,Yes,Yes,Yes,49,Bus,Yes,4,2,Good,2.0
+MAT0795,Male,27,Indian,Delhi,Masters,,2,3.23,95.7,10,2,4,3,15240,No,No,No,26,Car,Yes,6,1,Average,1.0
+BIO0796,Female,25,Bangladeshi,Chittagong,PhD,Biology,1,3.33,85.1,3,2,4,5,28842,Yes,Yes,No,40,Walk,No,5,5,Average,5.0
+BUS0797,Male,24,Indian,Kerala,Masters,Business,1,3.36,70.1,4,3,4,4,31415,Yes,Yes,No,39,Car,No,5,4,Good,4.0
+BIO0798,Male,28,Pakistani,Punjab,PhD,Biology,3,3.11,87.8,7,2,4,5,26236,Yes,Yes,Yes,49,Walk,Yes,2,2,Poor,3.0
+PSY0799,Male,24,Pakistani,Balochistan,Undergraduate,Psychology,4,2.91,83.7,7,4,5,2,37620,No,No,Yes,26,Walk,No,7,1,Good,4.0
+COM0800,Female,25,Indian,Kerala,Masters,Computer Science,4,2.61,93.3,9,4,5,5,34723,Yes,No,Yes,52,Walk,Yes,6,5,Good,4.0
+COM0801,Female,28,Bangladeshi,Dhaka,PhD,Computer Science,4,2.55,74.1,3,5,5,1,35093,Yes,No,Yes,,Bike,Yes,4,2,Good,3.0
+PSY0802,Female,26,Indian,Punjab,Masters,Psychology,2,2.37,91.1,8,1,5,4,25273,No,No,No,45,Bus,Yes,6,2,Good,1.0
+BUS0803,Female,24,Indian,Punjab,Masters,Business,3,2.88,66.0,8,5,6,1,24711,Yes,Yes,No,5,Car,Yes,5,3,Average,4.0
+PSY0804,Female,18,Bangladeshi,Chittagong,Undergraduate,Psychology,2,3.51,85.7,8,5,6,2,59788,Yes,No,No,5,Walk,No,5,1,Average,2.0
+MAT0805,Female,19,Afghan,Herat,Undergraduate,Mathematics,4,3.15,77.6,4,9,5,2,52414,No,No,Yes,37,Car,Yes,1,4,Average,2.0
+PSY0806,Male,23,Indian,Kerala,PhD,Psychology,2,2.69,90.3,9,3,8,4,35259,Yes,No,No,31,Bike,No,6,1,Poor,2.0
+BIO0807,Male,22,Bangladeshi,Chittagong,Masters,Biology,1,2.98,74.8,4,7,4,5,53396,Yes,No,Yes,15,Bus,Yes,7,1,Good,1.0
+PSY0808,Male,28,Bangladeshi,Chittagong,Masters,Psychology,4,2.31,87.8,8,9,5,4,53366,No,No,Yes,13,Walk,No,7,5,Poor,5.0
+PSY0809,Male,19,Bangladeshi,Chittagong,Masters,Psychology,2,3.29,65.7,6,4,6,2,35609,Yes,Yes,No,20,Car,No,6,2,Poor,5.0
+PSY0810,Female,28,Bangladeshi,Dhaka,PhD,Psychology,2,2.45,66.0,8,1,4,2,55030,No,Yes,Yes,44,Car,No,7,1,Poor,2.0
+PSY0811,Female,25,Pakistani,KPK,Undergraduate,Psychology,4,2.82,72.4,7,4,6,2,54224,No,Yes,Yes,13,Bus,No,0,2,Poor,4.0
+BIO0812,Male,24,Afghan,Kabul,Masters,Biology,2,3.4,87.3,1,5,5,3,40083,No,Yes,No,10,Walk,No,7,2,Average,4.0
+PSY0813,Female,20,Indian,Kerala,PhD,Psychology,3,3.24,65.4,5,3,4,4,17895,No,No,No,36,Car,Yes,7,2,Good,
+PSY0814,Female,19,Pakistani,KPK,PhD,Psychology,4,2.63,71.0,7,4,4,4,48152,Yes,Yes,Yes,30,Bike,No,2,3,Good,4.0
+BUS0815,Male,25,Pakistani,Balochistan,Undergraduate,Business,3,2.88,72.1,1,7,8,4,17086,No,No,No,30,Bus,No,3,1,Good,5.0
+BIO0816,Male,28,Bangladeshi,Chittagong,PhD,Biology,1,2.91,97.3,6,5,4,5,31703,No,No,No,57,Bike,No,7,2,Average,3.0
+MAT0817,Male,23,Bangladeshi,Dhaka,Undergraduate,Mathematics,2,3.34,86.3,7,3,6,5,24823,No,Yes,Yes,20,Walk,Yes,7,4,Good,3.0
+,Female,18,Indian,Kerala,Masters,Business,1,2.4,94.8,2,4,5,4,21611,Yes,No,No,20,Walk,Yes,3,4,Good,1.0
+MAT0819,Male,27,Indian,Punjab,Undergraduate,Mathematics,2,2.72,94.9,1,2,4,2,41658,Yes,No,Yes,37,Bike,Yes,1,5,Average,4.0
+ELE0820,Female,27,Pakistani,Balochistan,PhD,Electrical Engineering,3,2.67,91.4,10,7,6,1,30252,No,Yes,No,47,Walk,Yes,6,3,Good,5.0
+COM0821,Male,21,Afghan,Herat,PhD,Computer Science,3,2.63,86.3,7,2,4,2,24459,Yes,No,No,36,Bus,No,7,5,Good,3.0
+PSY0822,Male,24,Pakistani,Sindh,Masters,Psychology,2,3.11,88.4,8,6,4,1,35141,No,No,Yes,26,Bus,Yes,6,4,Good,4.0
+ELE0823,Female,21,Afghan,Herat,PhD,Electrical Engineering,3,3.28,80.7,5,9,6,4,40458,No,No,No,57,Walk,No,0,4,Poor,4.0
+BIO0824,Male,28,Afghan,Herat,Masters,Biology,3,3.01,81.1,9,2,6,3,26030,No,No,Yes,34,Car,Yes,6,3,Good,1.0
+COM0825,Male,24,Pakistani,Sindh,PhD,Computer Science,4,3.87,84.6,9,4,6,2,43846,Yes,Yes,No,45,Walk,No,1,1,Good,3.0
+COM0826,Female,22,Pakistani,Sindh,Undergraduate,Computer Science,4,2.72,81.1,7,4,6,3,20091,No,No,No,7,Bike,No,7,2,Average,2.0
+COM0827,Female,21,Pakistani,KPK,Masters,Computer Science,1,2.2,84.8,2,3,5,3,57576,No,No,Yes,27,Bus,No,7,5,Average,1.0
+PSY0828,Female,22,Pakistani,Sindh,PhD,Psychology,3,2.78,94.6,3,5,7,3,42369,No,Yes,No,47,Bus,No,0,2,Poor,3.0
+MAT0829,Female,26,Bangladeshi,Chittagong,Masters,Mathematics,1,3.37,79.7,4,6,8,4,41030,No,No,No,23,Bike,Yes,3,1,Poor,3.0
+COM0830,Male,20,Afghan,Kabul,Masters,Computer Science,4,2.91,67.9,2,9,5,2,29939,Yes,No,Yes,58,Walk,Yes,1,5,Good,3.0
+COM0831,Male,19,Pakistani,Sindh,Undergraduate,Computer Science,4,3.09,78.2,2,2,6,1,30213,No,No,No,27,Bike,No,2,4,Good,3.0
+MAT0832,Female,28,Afghan,Herat,Undergraduate,,2,2.86,69.7,10,5,5,1,49670,No,Yes,Yes,18,Bike,Yes,0,5,Good,5.0
+COM0833,Female,18,Indian,Delhi,Undergraduate,Computer Science,3,3.04,85.9,3,4,5,5,26025,Yes,Yes,Yes,59,Walk,No,6,1,Good,
+BUS0834,Female,24,Bangladeshi,Dhaka,Masters,Business,3,3.49,78.6,10,7,4,4,51135,Yes,Yes,No,18,Walk,Yes,4,1,Average,4.0
+BIO0835,Female,27,Afghan,Herat,PhD,Biology,1,2.59,67.6,2,8,6,3,59587,No,Yes,No,40,Walk,No,6,1,Average,4.0
+BIO0836,Male,21,Indian,Kerala,PhD,Biology,1,2.99,71.6,10,8,7,2,42702,No,Yes,Yes,57,Car,No,5,2,Average,4.0
+MAT0837,Female,23,Bangladeshi,Chittagong,Masters,Mathematics,3,3.01,95.0,3,7,4,5,51140,No,No,No,34,Walk,Yes,7,1,Good,3.0
+BUS0838,Male,22,Afghan,,Undergraduate,Business,3,3.26,94.1,9,4,6,1,59202,No,Yes,Yes,54,Car,No,6,1,Average,1.0
+BUS0839,Female,21,Pakistani,KPK,Undergraduate,Business,4,2.62,92.5,9,2,7,1,58385,No,No,Yes,30,Bus,Yes,5,3,Average,1.0
+ELE0840,Male,24,Indian,Delhi,Undergraduate,Electrical Engineering,2,2.95,89.0,8,4,7,2,29374,No,No,Yes,8,Car,No,7,3,Good,1.0
+ELE0841,Female,20,Bangladeshi,Chittagong,Masters,Electrical Engineering,2,3.34,78.2,5,10,4,2,34770,Yes,No,Yes,31,Bike,No,5,1,Good,5.0
+COM0842,Female,28,Afghan,Herat,Masters,Computer Science,1,3.06,75.7,10,2,6,3,40148,Yes,No,No,37,Bus,Yes,7,5,Good,4.0
+PSY0843,Male,21,Bangladeshi,,Masters,Psychology,3,2.94,88.8,4,2,4,1,56480,No,Yes,Yes,34,Walk,Yes,6,3,Good,4.0
+MAT0844,Female,26,Pakistani,KPK,PhD,Mathematics,3,2.86,96.5,8,9,6,2,21054,No,No,No,10,Bus,Yes,6,3,Poor,
+PSY0845,Male,19,Bangladeshi,Dhaka,PhD,Psychology,3,3.2,84.8,5,7,4,4,22237,Yes,Yes,Yes,52,Bike,Yes,3,2,Good,4.0
+COM0846,Male,22,Indian,Delhi,Masters,Computer Science,4,2.24,93.0,1,10,4,5,43542,Yes,No,No,48,Walk,Yes,3,5,Poor,1.0
+ELE0847,Female,25,Bangladeshi,Dhaka,Masters,,3,3.17,77.1,9,3,6,3,52535,Yes,Yes,No,50,Car,Yes,7,4,Good,2.0
+PSY0848,Female,25,Afghan,Kabul,Masters,Psychology,1,3.38,82.7,9,1,4,1,59504,Yes,Yes,Yes,23,Bus,No,6,3,Average,2.0
+PSY0849,Male,27,Bangladeshi,Dhaka,Masters,Psychology,4,2.22,85.0,4,1,6,5,48058,No,No,No,48,Bus,Yes,4,2,Average,5.0
+BUS0850,Female,21,Afghan,Kabul,Undergraduate,Business,1,3.23,70.6,4,9,6,1,43661,Yes,Yes,No,27,Bike,No,3,2,Average,
+ELE0851,Female,18,Afghan,Kabul,PhD,Electrical Engineering,3,2.7,95.5,8,4,7,2,25743,Yes,Yes,No,8,Bus,No,3,4,,1.0
+MAT0852,Female,24,Pakistani,Sindh,PhD,Mathematics,4,2.91,83.2,10,6,5,1,44576,Yes,Yes,No,9,Bus,No,5,4,Good,3.0
+BIO0853,Female,19,Afghan,Kabul,PhD,Biology,3,3.26,80.3,5,6,5,4,49323,No,No,Yes,6,Bike,Yes,7,1,Poor,2.0
+,Male,23,Pakistani,KPK,Masters,Mathematics,2,2.88,68.6,5,4,7,5,46848,Yes,Yes,Yes,58,Bus,No,3,5,Good,4.0
+ELE0855,Male,22,Bangladeshi,Dhaka,PhD,Electrical Engineering,4,3.01,82.1,2,5,5,2,31817,No,No,Yes,9,Car,No,1,1,Poor,2.0
+ELE0856,Female,23,Pakistani,KPK,Masters,Electrical Engineering,3,3.71,79.9,2,6,6,3,49899,No,,Yes,12,Bus,Yes,2,1,Average,5.0
+PSY0857,Male,18,Afghan,Kabul,PhD,Psychology,1,2.96,89.0,5,10,6,1,53426,Yes,No,No,15,Bike,No,5,4,,4.0
+BUS0858,Female,24,Pakistani,KPK,Undergraduate,Business,4,2.55,88.9,5,4,4,3,51459,Yes,No,No,58,Bus,Yes,6,1,Good,
+ELE0859,Male,23,Pakistani,Punjab,Undergraduate,Electrical Engineering,3,3.57,93.9,5,4,7,1,26970,Yes,Yes,No,6,Bike,No,1,5,Poor,1.0
+ELE0860,Female,28,Indian,Delhi,Undergraduate,Electrical Engineering,2,3.28,70.4,1,4,6,5,35986,Yes,Yes,Yes,48,Bus,No,6,3,Good,4.0
+COM0861,Female,28,Pakistani,Balochistan,Undergraduate,Computer Science,3,2.14,91.9,5,5,7,2,54890,Yes,Yes,Yes,12,Car,Yes,0,1,Good,5.0
+BIO0862,Male,21,Pakistani,Sindh,Undergraduate,Biology,1,2.95,79.1,6,8,6,3,45337,Yes,No,Yes,34,Bike,No,3,1,Poor,2.0
+PSY0863,Female,21,Indian,Punjab,Undergraduate,Psychology,4,2.4,76.2,8,10,4,2,23229,No,No,No,39,Bike,No,6,3,Good,5.0
+MAT0864,Female,25,Afghan,Herat,Masters,Mathematics,4,4.01,90.2,2,2,8,5,42076,Yes,Yes,No,37,Car,Yes,2,4,Poor,4.0
+ELE0865,Female,26,Bangladeshi,Chittagong,PhD,Electrical Engineering,3,2.83,91.6,5,1,6,2,22132,No,No,No,46,Walk,Yes,6,4,Average,4.0
+PSY0866,Male,24,Afghan,Herat,Masters,,4,2.56,68.9,1,8,4,3,29435,No,No,Yes,6,Car,No,0,3,Average,1.0
+MAT0867,Female,27,Afghan,Herat,PhD,Mathematics,2,2.64,74.9,10,10,7,2,41457,Yes,No,No,6,Walk,No,0,5,Poor,1.0
+COM0868,Male,22,Indian,Delhi,PhD,Computer Science,2,3.21,74.1,9,2,5,3,47484,Yes,Yes,Yes,43,Bike,Yes,1,5,Average,3.0
+,Female,19,Pakistani,Punjab,Masters,Biology,3,2.65,84.7,7,3,6,5,41262,Yes,No,Yes,8,Bike,Yes,4,5,Poor,4.0
+ELE0870,Male,26,Pakistani,Balochistan,Undergraduate,Electrical Engineering,1,3.54,79.5,8,4,4,4,35795,Yes,Yes,No,21,Bike,No,0,4,Good,5.0
+BIO0871,Female,22,Indian,Punjab,Masters,Biology,1,2.91,77.9,8,10,6,1,22473,Yes,No,Yes,19,Walk,No,4,2,Average,3.0
+ELE0872,Male,26,Afghan,Herat,Masters,Electrical Engineering,1,2.81,70.4,1,5,4,2,56284,No,Yes,No,45,Bike,Yes,2,4,Average,4.0
+MAT0873,Male,27,Indian,Delhi,Undergraduate,Mathematics,1,2.76,81.6,10,3,4,3,29747,No,Yes,No,22,Walk,Yes,4,3,Good,5.0
+COM0874,Male,20,Indian,Kerala,Undergraduate,Computer Science,4,3.26,72.1,9,3,5,4,27742,No,No,No,57,Bus,Yes,5,1,Poor,1.0
+MAT0875,Male,27,Bangladeshi,Dhaka,PhD,Mathematics,2,2.89,65.5,10,3,8,3,57190,No,No,No,44,Car,No,5,5,Poor,2.0
+BIO0876,Female,27,Indian,Kerala,Masters,Biology,4,2.87,90.9,4,3,4,4,32010,Yes,Yes,No,52,Car,No,3,1,Good,3.0
+COM0877,Female,18,Indian,Punjab,Masters,Computer Science,3,3.03,78.4,3,3,7,4,27430,Yes,Yes,No,19,Bus,Yes,0,2,Good,3.0
+PSY0878,Male,28,Pakistani,Sindh,Masters,Psychology,4,2.92,98.0,8,2,5,1,18738,No,No,Yes,59,Bike,Yes,4,2,Poor,2.0
+BIO0879,Female,28,Pakistani,Sindh,Undergraduate,Biology,3,3.42,80.6,5,3,6,3,40744,No,Yes,Yes,23,Walk,No,1,2,Average,1.0
+PSY0880,Female,27,Afghan,Kabul,Masters,Psychology,3,3.05,68.0,2,1,6,5,55309,No,No,Yes,35,Car,No,7,2,Poor,1.0
+BUS0881,Female,22,Bangladeshi,Dhaka,PhD,Business,3,3.21,96.3,10,10,6,2,31898,No,Yes,Yes,39,Walk,Yes,0,5,Good,3.0
+ELE0882,Male,19,Pakistani,Punjab,Undergraduate,Electrical Engineering,1,2.48,86.5,3,1,8,4,21537,No,Yes,Yes,52,Car,No,2,4,Poor,1.0
+BIO0883,Female,28,Bangladeshi,Chittagong,Masters,Biology,1,2.98,96.2,2,5,6,2,41272,No,No,No,47,Bus,No,5,2,Good,
+BUS0884,Female,19,Afghan,Herat,Undergraduate,Business,4,3.7,78.2,5,7,7,5,57370,No,No,No,27,Walk,Yes,3,5,Good,3.0
+PSY0885,Male,26,Pakistani,Balochistan,Undergraduate,Psychology,1,3.21,66.4,2,3,8,3,45743,Yes,Yes,Yes,16,Bike,Yes,7,5,Good,5.0
+PSY0886,Male,28,Afghan,Kabul,PhD,Psychology,3,2.98,85.9,3,8,4,3,39934,No,Yes,No,18,Bike,Yes,3,3,Good,5.0
+BIO0887,Male,21,Bangladeshi,Dhaka,Undergraduate,Biology,4,2.74,78.0,3,10,5,3,48911,Yes,Yes,Yes,6,Bus,No,6,3,Average,1.0
+BUS0888,Female,21,Bangladeshi,Chittagong,PhD,Business,4,3.4,73.7,8,5,6,4,54445,Yes,No,Yes,41,Bike,No,4,4,Good,1.0
+MAT0889,Female,23,Afghan,Herat,Masters,Mathematics,3,3.13,94.9,4,1,6,3,21773,No,Yes,Yes,22,Walk,Yes,5,4,Poor,5.0
+BIO0890,Female,23,Bangladeshi,Dhaka,Undergraduate,Biology,4,2.68,95.3,3,5,5,4,32552,Yes,No,No,21,Walk,Yes,0,4,Average,3.0
+BIO0891,Female,23,Pakistani,Balochistan,Masters,Biology,3,2.91,79.8,6,8,7,4,35042,Yes,No,No,34,Walk,No,0,3,Good,5.0
+BUS0892,Female,27,Afghan,Kabul,Masters,Business,3,2.82,81.4,1,4,6,5,18182,No,Yes,Yes,55,Bike,Yes,5,3,Poor,4.0
+BUS0893,Male,24,Pakistani,Sindh,PhD,Business,1,2.83,93.8,9,3,7,5,48483,No,No,No,55,Bus,Yes,1,3,Average,4.0
+BUS0894,Male,24,Indian,Punjab,Masters,Business,1,2.53,98.5,3,6,5,3,19022,No,No,Yes,38,Walk,No,7,2,Average,5.0
+BUS0895,Male,18,Indian,Punjab,PhD,Business,1,3.3,72.7,8,8,5,4,33010,No,Yes,No,46,Bike,Yes,5,1,Good,3.0
+,Male,25,Indian,Punjab,Masters,Business,1,2.48,88.2,3,5,4,1,19567,No,Yes,No,45,Bus,Yes,1,2,Good,2.0
+PSY0897,Female,21,Bangladeshi,Dhaka,Masters,Psychology,1,3.18,94.5,2,2,6,4,28330,Yes,Yes,No,25,Bike,Yes,1,5,Good,2.0
+BIO0898,Male,27,Bangladeshi,Dhaka,Masters,Biology,2,2.42,97.8,3,8,4,1,36250,Yes,Yes,Yes,28,Bike,Yes,0,5,Average,3.0
+MAT0899,Female,21,Pakistani,KPK,Masters,Mathematics,4,2.94,72.7,4,8,7,4,50499,Yes,No,Yes,10,Walk,Yes,7,1,Good,1.0
+ELE0900,Male,22,Pakistani,Sindh,PhD,Electrical Engineering,1,3.14,66.5,8,7,8,3,37143,Yes,No,Yes,35,Bus,Yes,4,3,Average,3.0
+COM0901,Female,24,Indian,Punjab,Masters,Computer Science,1,2.85,89.9,3,7,5,4,53601,Yes,No,No,49,Car,No,1,4,Poor,2.0
+MAT0902,Male,20,Afghan,Kabul,Masters,Mathematics,4,2.68,65.0,7,8,5,1,51581,Yes,No,Yes,11,Car,Yes,4,5,Average,3.0
+ELE0903,Male,20,Bangladeshi,Dhaka,Masters,Electrical Engineering,1,2.78,86.9,3,2,4,3,55369,No,No,Yes,27,Walk,Yes,2,1,Poor,3.0
+MAT0904,Female,27,Bangladeshi,Dhaka,Undergraduate,Mathematics,4,3.0,89.6,6,2,5,2,34644,No,No,Yes,23,Bus,Yes,5,5,Poor,4.0
+BUS0905,Female,22,Bangladeshi,Dhaka,Undergraduate,Business,1,2.88,88.9,3,5,5,2,17259,No,No,No,47,Car,No,6,1,Average,3.0
+PSY0906,Male,26,Indian,Delhi,Undergraduate,Psychology,3,2.91,93.4,8,8,7,1,16124,Yes,Yes,No,34,Car,No,5,1,Average,5.0
+ELE0907,Female,25,Afghan,Kabul,Masters,Electrical Engineering,2,2.9,88.7,2,5,6,1,18085,No,Yes,Yes,55,Car,No,3,4,Average,5.0
+ELE0908,Female,22,Afghan,Herat,Masters,Electrical Engineering,1,2.58,77.0,6,10,6,1,19997,No,Yes,No,32,Bike,No,5,1,Poor,1.0
+MAT0909,Male,23,Indian,Punjab,Masters,Mathematics,3,2.72,76.4,7,4,4,1,25546,No,Yes,No,14,Car,No,3,4,Poor,5.0
+BUS0910,Male,24,Pakistani,Sindh,PhD,Business,1,2.82,84.8,1,7,6,4,54766,No,No,Yes,34,Car,No,3,5,Good,5.0
+BIO0911,Female,19,Afghan,Herat,Undergraduate,Biology,3,3.41,78.2,2,6,7,2,41191,Yes,Yes,No,15,Walk,Yes,1,3,Good,4.0
+ELE0912,Female,22,Afghan,Kabul,Masters,Electrical Engineering,1,2.62,94.4,4,6,5,2,50555,No,Yes,No,5,Bus,No,5,3,Average,5.0
+MAT0913,Male,25,Bangladeshi,Dhaka,Masters,Mathematics,4,3.26,89.0,2,3,4,3,49897,No,No,Yes,45,Bike,No,5,5,Poor,5.0
+COM0914,Female,25,Indian,Kerala,PhD,Computer Science,4,3.01,72.3,10,9,4,1,58476,No,No,Yes,36,Bike,No,4,2,Good,1.0
+BUS0915,Male,25,Indian,Kerala,Undergraduate,Business,2,2.76,85.9,4,4,6,5,32511,Yes,Yes,No,48,Walk,No,7,5,Average,2.0
+BUS0916,Male,19,Afghan,Herat,PhD,Business,1,3.06,94.2,10,9,5,1,52883,Yes,Yes,No,59,Car,Yes,1,4,Good,2.0
+BIO0917,Male,21,Afghan,Herat,Undergraduate,Biology,2,2.65,78.4,5,2,7,5,26397,Yes,Yes,Yes,41,Bus,Yes,0,4,Average,3.0
+,Female,21,Bangladeshi,Dhaka,Undergraduate,Mathematics,3,3.06,96.6,5,7,5,3,17436,No,Yes,No,53,Walk,Yes,2,3,Good,1.0
+BIO0919,Male,18,Afghan,Herat,Masters,Biology,1,2.84,71.3,8,10,7,2,21205,Yes,Yes,Yes,28,Walk,No,5,3,Average,5.0
+MAT0920,Female,23,Pakistani,Balochistan,Masters,Mathematics,3,3.07,79.6,6,8,7,2,40912,No,Yes,Yes,38,Bus,Yes,6,1,Poor,3.0
+COM0921,Female,21,Bangladeshi,Dhaka,Masters,Computer Science,4,3.2,73.1,10,3,8,1,19734,Yes,No,Yes,30,Bus,Yes,3,5,Average,1.0
+BIO0922,Male,28,Afghan,Herat,Masters,Biology,2,3.37,93.8,8,1,5,4,51809,No,Yes,Yes,10,Bike,Yes,2,3,Average,1.0
+PSY0923,Female,20,Bangladeshi,Chittagong,Masters,Psychology,4,3.41,71.5,1,3,5,4,23409,Yes,Yes,Yes,54,Walk,Yes,0,3,Poor,2.0
+BIO0924,Male,21,Afghan,Kabul,Undergraduate,Biology,4,3.15,71.7,6,2,8,4,34540,No,Yes,No,49,Bus,Yes,0,3,Poor,5.0
+BIO0925,Male,20,Pakistani,KPK,Undergraduate,Biology,1,2.66,79.2,2,7,8,1,33173,Yes,No,Yes,27,Bike,Yes,6,2,Good,4.0
+BUS0926,Male,27,Pakistani,Balochistan,Undergraduate,Business,4,3.09,87.8,6,1,5,3,27969,Yes,No,No,43,Car,No,5,4,Average,1.0
+PSY0927,Female,28,Bangladeshi,Dhaka,PhD,Psychology,4,3.59,82.1,2,4,7,3,25896,Yes,No,Yes,25,Walk,No,5,4,Average,2.0
+PSY0928,Male,25,Pakistani,Balochistan,Masters,,1,4.01,77.6,10,2,7,1,42367,No,No,Yes,12,Bike,No,5,2,Poor,2.0
+BUS0929,Male,23,Pakistani,Punjab,PhD,Business,1,2.82,94.9,7,7,5,4,37011,Yes,Yes,Yes,56,Bus,Yes,1,3,Good,5.0
+PSY0930,Female,21,Afghan,Herat,Masters,Psychology,1,3.11,94.9,3,7,4,5,47914,Yes,No,Yes,33,Car,Yes,2,4,Poor,4.0
+MAT0931,Male,21,Bangladeshi,Chittagong,Masters,Mathematics,3,2.55,82.0,6,10,5,2,56902,No,Yes,No,6,Bus,No,1,4,,5.0
+BIO0932,Female,28,Indian,Punjab,Undergraduate,Biology,3,2.92,68.7,4,4,8,1,30800,Yes,Yes,No,23,Bus,Yes,2,2,Average,1.0
+COM0933,Male,20,Afghan,Herat,PhD,Computer Science,3,2.77,84.1,9,3,5,2,51255,Yes,Yes,Yes,25,Car,No,2,5,Good,5.0
+MAT0934,Female,24,Pakistani,Sindh,PhD,Mathematics,3,3.76,89.4,8,8,5,5,58830,Yes,Yes,No,20,Walk,Yes,3,2,Average,3.0
+,Male,19,Pakistani,Punjab,PhD,Computer Science,4,3.22,81.8,6,6,6,3,23759,No,No,Yes,18,Car,No,3,5,Good,3.0
+BIO0936,Male,26,Indian,Punjab,Undergraduate,Biology,1,2.45,77.7,8,6,4,3,49239,Yes,No,Yes,16,Bus,Yes,1,4,Average,4.0
+PSY0937,Male,26,Afghan,Kabul,PhD,Psychology,4,3.05,89.7,7,4,4,4,39227,Yes,No,Yes,16,Walk,Yes,5,3,Poor,1.0
+PSY0938,Male,25,Pakistani,Sindh,Undergraduate,Psychology,2,2.63,69.6,8,1,6,5,56367,Yes,Yes,No,20,Car,Yes,5,4,Poor,3.0
+BIO0939,Female,24,Bangladeshi,Dhaka,PhD,,2,3.15,90.8,8,1,7,4,54753,No,Yes,No,35,Bus,No,2,5,Good,2.0
+BUS0940,Female,28,Afghan,Herat,Masters,Business,3,2.91,73.7,9,3,8,1,41976,No,No,No,25,Bus,Yes,0,4,Poor,1.0
+BUS0941,Male,21,Indian,Kerala,Undergraduate,Business,2,2.53,76.2,1,3,6,4,25638,No,Yes,Yes,27,Car,Yes,7,2,Good,
+BUS0942,Male,25,Afghan,Kabul,PhD,Business,1,2.77,91.8,9,4,4,1,40983,Yes,Yes,Yes,33,Walk,No,6,1,Poor,2.0
+BIO0943,Male,26,Indian,Kerala,Undergraduate,Biology,4,3.47,78.9,2,6,4,5,32569,Yes,Yes,Yes,59,Bus,Yes,2,4,Poor,5.0
+PSY0944,Female,22,Pakistani,Sindh,Undergraduate,Psychology,4,2.64,71.0,6,4,5,5,27968,No,No,No,52,Walk,Yes,2,2,Poor,4.0
+BIO0945,Female,26,Indian,Punjab,Masters,Biology,3,3.19,96.0,5,4,6,2,57189,Yes,No,Yes,8,Walk,No,2,5,Average,1.0
+MAT0946,Male,21,Pakistani,KPK,Undergraduate,Mathematics,3,2.89,97.4,8,6,8,2,41115,No,Yes,Yes,49,Bike,Yes,7,1,Poor,5.0
+ELE0947,Female,25,Pakistani,Balochistan,PhD,Electrical Engineering,2,2.91,66.2,5,1,7,2,42353,Yes,,No,59,Bus,No,1,4,Good,3.0
+ELE0948,Female,19,Bangladeshi,Dhaka,Undergraduate,Electrical Engineering,1,3.17,75.8,6,7,8,5,42386,No,No,Yes,49,Car,No,6,5,Average,1.0
+MAT0949,Female,22,Bangladeshi,Chittagong,Masters,Mathematics,3,2.7,67.4,8,9,6,5,55109,Yes,No,Yes,39,Walk,Yes,3,1,Poor,5.0
+ELE0950,Female,18,Indian,Punjab,Masters,Electrical Engineering,1,2.14,96.1,1,5,4,2,21536,Yes,Yes,No,16,Bus,Yes,3,2,Average,2.0
+ELE0951,Male,22,Bangladeshi,Chittagong,Masters,Electrical Engineering,4,3.34,88.0,8,3,5,2,16049,No,Yes,Yes,15,Bike,No,2,4,Good,5.0
+ELE0952,Female,18,Indian,Delhi,Undergraduate,Electrical Engineering,1,3.01,95.1,4,8,6,4,38662,No,Yes,Yes,52,Bus,No,2,4,Good,4.0
+MAT0953,Female,22,Afghan,Herat,Undergraduate,Mathematics,4,2.68,74.0,6,2,4,4,16322,No,Yes,Yes,21,Bike,No,5,2,Poor,3.0
+ELE0954,Male,25,Bangladeshi,Chittagong,PhD,Electrical Engineering,1,3.93,98.0,6,7,5,1,36248,No,No,Yes,35,Bike,Yes,0,1,Poor,3.0
+COM0955,Male,23,Pakistani,Balochistan,PhD,Computer Science,2,3.04,91.1,9,4,5,2,15652,No,Yes,Yes,14,Walk,No,0,5,Good,3.0
+ELE0956,Female,19,Afghan,Herat,Masters,Electrical Engineering,1,3.86,84.6,10,2,4,1,38951,No,Yes,No,11,Bike,No,0,1,Average,5.0
+COM0957,Female,19,Afghan,Kabul,Masters,,3,2.33,80.4,3,2,5,2,28698,Yes,No,No,8,Bike,No,1,1,Average,3.0
+PSY0958,Female,26,Afghan,Kabul,Masters,Psychology,1,2.99,81.3,9,4,5,2,25232,Yes,Yes,No,55,Bike,No,0,5,Average,1.0
+BIO0959,Female,25,Afghan,Kabul,Undergraduate,Biology,4,2.83,90.7,10,3,4,3,56795,Yes,Yes,No,6,Car,No,1,4,Poor,2.0
+MAT0960,Female,23,Pakistani,KPK,PhD,Mathematics,1,3.33,66.9,3,3,6,5,48684,Yes,No,No,18,Bus,Yes,1,5,Average,4.0
+BUS0961,Male,22,Indian,Punjab,Undergraduate,Business,1,2.69,78.1,5,1,5,3,23127,Yes,No,No,56,Walk,Yes,4,4,Average,3.0
+ELE0962,Female,24,Pakistani,Sindh,PhD,Electrical Engineering,1,2.9,79.7,6,6,4,4,54676,Yes,No,No,34,Walk,No,4,1,,3.0
+BIO0963,Female,19,Indian,Kerala,Undergraduate,Biology,4,3.24,85.2,3,7,4,2,49292,Yes,Yes,No,21,Walk,Yes,2,5,Good,5.0
+COM0964,Female,20,Pakistani,Punjab,PhD,Computer Science,4,2.89,72.3,3,8,4,5,46545,No,Yes,Yes,14,Bike,No,2,5,Average,3.0
+ELE0965,Male,24,Indian,Punjab,Undergraduate,Electrical Engineering,1,4.28,68.7,4,3,5,2,43274,No,Yes,No,17,Bike,Yes,3,1,Good,3.0
+COM0966,Female,26,Bangladeshi,Dhaka,PhD,Computer Science,4,2.34,88.8,10,1,5,1,42557,No,No,No,39,Bus,Yes,1,5,Poor,2.0
+MAT0967,Male,28,Pakistani,Sindh,Undergraduate,Mathematics,3,3.85,82.0,1,4,5,1,54084,Yes,Yes,Yes,19,Bus,Yes,7,2,Good,2.0
+COM0968,Female,20,Afghan,Herat,PhD,Computer Science,3,3.18,71.0,9,2,6,3,55816,No,No,Yes,8,Walk,Yes,5,1,Good,1.0
+BUS0969,Female,23,Indian,Kerala,Undergraduate,Business,3,3.08,70.6,8,4,6,1,44973,Yes,Yes,No,40,Bus,No,2,2,Average,4.0
+COM0970,Female,22,Afghan,Herat,Undergraduate,Computer Science,3,2.88,70.3,8,7,8,4,26345,Yes,No,No,43,Bus,No,2,3,Good,1.0
+BIO0971,Male,21,Bangladeshi,Chittagong,Undergraduate,Biology,1,2.9,73.3,7,8,8,1,39101,Yes,Yes,No,7,Bike,No,1,1,Good,1.0
+ELE0972,Male,23,Pakistani,KPK,Undergraduate,Electrical Engineering,4,2.98,66.0,4,9,8,4,55227,Yes,No,No,16,Walk,No,1,5,Poor,2.0
+ELE0973,Female,27,Indian,Kerala,Masters,Electrical Engineering,2,2.8,79.0,7,6,4,5,22257,Yes,Yes,Yes,45,Walk,No,7,5,Poor,4.0
+PSY0974,Female,23,Bangladeshi,Dhaka,PhD,Psychology,3,2.61,76.5,4,1,7,1,55776,Yes,Yes,Yes,43,Bike,No,1,1,Poor,5.0
+COM0975,Female,26,Afghan,Kabul,PhD,Computer Science,3,3.23,93.3,7,10,7,4,49590,Yes,Yes,Yes,25,Walk,Yes,2,5,Average,3.0
+MAT0976,Male,24,Pakistani,Sindh,PhD,Mathematics,4,2.82,82.9,2,9,5,1,31799,Yes,No,No,17,Bike,No,6,3,Average,3.0
+BIO0977,Male,26,Afghan,Herat,Undergraduate,Biology,2,3.21,88.0,1,2,7,1,24049,No,No,Yes,29,Car,No,6,4,Average,1.0
+MAT0978,Female,23,Afghan,Herat,PhD,Mathematics,2,2.81,69.6,5,2,8,3,54709,Yes,No,No,7,Bus,No,7,3,Average,2.0
+ELE0979,Female,22,Pakistani,Balochistan,Undergraduate,Electrical Engineering,3,3.87,88.6,4,10,6,1,19918,No,Yes,Yes,29,Car,No,2,4,Good,4.0
+ELE0980,Female,24,Afghan,Herat,PhD,Electrical Engineering,1,2.23,77.6,7,9,7,2,39474,No,Yes,No,53,Bus,Yes,4,5,Average,4.0
+BIO0981,Female,26,Indian,Delhi,Masters,Biology,1,3.02,66.9,4,3,5,1,33718,No,No,Yes,35,Car,Yes,3,3,Average,3.0
+ELE0982,Male,19,Indian,Punjab,PhD,Electrical Engineering,3,3.33,75.4,10,4,7,2,16216,No,Yes,No,13,Car,Yes,7,2,Average,2.0
+COM0983,Male,19,Afghan,Herat,PhD,Computer Science,2,3.47,68.6,6,7,4,3,55993,No,No,No,47,Bike,Yes,6,4,Good,3.0
+BUS0984,Female,24,Bangladeshi,Chittagong,Masters,Business,1,2.16,97.6,2,3,7,1,25779,No,No,No,19,Walk,No,3,1,Poor,5.0
+ELE0985,Male,25,Afghan,Herat,Undergraduate,Electrical Engineering,3,3.46,77.2,8,4,7,1,55879,No,No,Yes,15,Walk,Yes,3,4,Poor,5.0
+MAT0986,Male,22,Afghan,Herat,Undergraduate,Mathematics,1,2.93,67.2,1,3,5,3,50745,No,No,Yes,49,Bus,Yes,3,4,Good,5.0
+BIO0987,Female,28,Bangladeshi,Dhaka,Masters,Biology,2,3.08,74.3,9,8,5,2,39220,No,No,Yes,43,Walk,Yes,5,3,Average,3.0
+BIO0988,Male,25,Indian,Punjab,Masters,Biology,3,3.19,71.7,4,6,5,5,32879,Yes,,No,49,Car,Yes,3,3,Average,4.0
+ELE0989,Female,20,Afghan,Kabul,Undergraduate,Electrical Engineering,2,3.38,66.7,1,2,5,5,28365,No,No,No,24,Bike,Yes,4,1,Poor,2.0
+MAT0990,Female,24,Pakistani,KPK,PhD,Mathematics,3,3.19,78.0,4,2,8,4,24601,Yes,Yes,Yes,19,Walk,No,3,5,Average,1.0
+COM0991,Female,20,Pakistani,Balochistan,Undergraduate,Computer Science,2,3.18,67.0,1,9,7,4,20201,Yes,Yes,Yes,24,Bike,No,4,3,Average,4.0
+ELE0992,Female,26,Bangladeshi,Dhaka,PhD,Electrical Engineering,4,3.19,66.6,5,5,8,3,42096,Yes,No,No,41,Bus,Yes,4,1,,4.0
+BIO0993,Male,18,Bangladeshi,Chittagong,PhD,Biology,4,2.37,78.4,8,5,4,5,54853,No,No,Yes,51,Walk,No,2,1,Average,5.0
+BIO0994,Male,22,Pakistani,Balochistan,Undergraduate,Biology,2,2.91,72.6,1,3,8,5,53921,No,Yes,No,53,Bus,No,1,5,Poor,
+COM0995,Male,19,Indian,Delhi,Undergraduate,Computer Science,2,3.26,87.0,6,6,6,5,25273,Yes,Yes,No,30,Walk,Yes,2,3,Good,4.0
+ELE0996,Male,27,Indian,Delhi,Masters,Electrical Engineering,1,3.31,88.7,1,4,4,5,31172,Yes,No,No,24,Bus,Yes,6,4,,3.0
+ELE0997,Female,28,Bangladeshi,Dhaka,Undergraduate,Electrical Engineering,2,3.5,94.5,7,1,8,1,25310,Yes,Yes,Yes,48,Bike,Yes,7,3,Good,2.0
+,Male,28,Bangladeshi,Chittagong,Undergraduate,Electrical Engineering,2,2.59,85.0,1,1,4,4,27346,No,No,Yes,53,Walk,No,2,3,Good,3.0
+BIO0999,Female,20,Afghan,Kabul,Undergraduate,Biology,1,3.09,73.8,9,4,7,1,32176,Yes,Yes,Yes,13,Bus,Yes,0,1,Poor,2.0
+BIO1000,Female,28,Bangladeshi,Chittagong,Masters,Biology,1,3.16,82.3,4,6,6,5,30985,Yes,No,No,27,Walk,No,6,3,Poor,5.0
